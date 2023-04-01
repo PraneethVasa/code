@@ -1,0 +1,985 @@
+name,price,processor,ram,os,storage,display_size,rating,no_of_ratings,no_of_reviews
+Lenovo Intel Core i5 11th Gen,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+Lenovo V15 G2 Core i3 11th Gen,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.4,53,3
+ASUS TUF Gaming F15 Core i5 10th Gen,49990,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.4,4733,463
+ASUS VivoBook 15 (2022) Core i3 10th Gen,33990,Intel Core i3 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,10406,1040
+Lenovo Athlon Dual Core,18990,AMD Athlon Dual Core Processor,4 GB DDR4 RAM,DOS Operating System,256 GB SSD,14,3.8,18,3
+APPLE 2020 Macbook Air M1,86990,Apple M1 Processor,8 GB DDR4 RAM,Mac OS Operating System,256 GB SSD,13.3,4.7,8865,795
+ASUS VivoBook 14 (2021) Celeron Dual Core,23990,Intel Celeron Dual Core Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,4.1,790,95
+DELL Vostro Ryzen 3 Quad Core 5425U,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,,,
+Lenovo V15 G2 Core i3 11th Gen,33999,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4,112,8
+RedmiBook Pro Core i5 11th Gen,38990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.1,3955,462
+acer Aspire 3 Ryzen 3 Dual Core 3250U,26990,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6,4.2,381,76
+ASUS Vivobook 14 (2022) Core i5 12th Gen,66990,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,5,4,0
+ASUS Vivobook 15 Core i3 11th Gen,37990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.1,257,26
+ASUS Core i7 11th Gen,56990,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.1,137,18
+DELL Vostro Core i3 11th Gen,39990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.1,143,11
+realme Book (Slim) Core i3 11th Gen,46990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,14,4.4,12584,1870
+HP 14s Intel Core i3 11th Gen,37990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,4.2,1779,160
+HP Ryzen 5 Hexa Core 5500U,49123,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,328,34
+MSI Bravo 15 Ryzen 5 Hexa Core AMD R5,47990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.4,2239,299
+ASUS Zenbook Flip 14 OLED (2022) Touch Panel Core i5 12th Gen,86500,Intel Core i5 Processor (12th Gen),16 GB LPDDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.4,9,0
+APPLE 2020 Macbook Air M1,86990,Apple M1 Processor,8 GB DDR4 RAM,Mac OS Operating System,256 GB SSD,13.3,4.7,8865,795
+HP 15s Intel Core i3 12th Gen,44990,Intel Core i3 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,93,17
+HP Intel Core i5 11th Gen,52990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,68,7
+HP Ryzen 3 Quad Core 5300U,38990,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,1911,208
+Lenovo IdeaPad 3 Core i3 11th Gen,33890,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,4.2,870,66
+ASUS Core i3 10th Gen,33990,Intel Core i3 Processor (10th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14,4.4,19,0
+HP Athlon Dual Core 3050U,26990,AMD Athlon Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,4,754,79
+Lenovo Intel Core i3 11th Gen,38500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,453,38
+HP Ryzen 5 Hexa Core 5500U,45909,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.2,1979,202
+ASUS VivoBook K15 OLED (2022) Ryzen 5 Hexa Core AMD R5,49990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.4,1233,149
+HP 15s Intel Core i3 11th Gen,40950,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,388,40
+Lenovo Intel Core i5 11th Gen,52890,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+ASUS ROG Strix G15 (2022) Ryzen 7 Octa Core AMD R7,99990,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.4,127,16
+ASUS Vivobook Pro 15 Ryzen 7 Octa Core AMD R7,59990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.5,870,105
+HP 15s Intel Core i5 12th Gen,58018,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,2011,167
+Lenovo IdeaPad 3 Core i3 11th Gen,38699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,4658,449
+SAMSUNG Galaxy Book Go Snapdragon 7c Gen 2,32990,Qualcomm Snapdragon 7c Gen 2 Processor,4 GB LPDDR4X RAM,Windows 11 Operating System,512 GB SSD,14,4.2,109,18
+HP Pavilion Ryzen 5 Hexa Core 5625U,53990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.2,128,21
+acer Swift 3 Core i5 12th Gen,64990,Intel Core i5 Processor (12th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.5,325,52
+Lenovo IdeaPad 3 Core i5 11th Gen,52990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,280,21
+realme Book (Slim) Core i3 11th Gen,46990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,14,4.4,12584,1870
+ASUS TUF Gaming F17 (2022) with 90Whr Battery Core i7 12th Gen,109990,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,17.3,4.3,59,11
+HP Pavilion Intel Core i5 12th Gen,68114,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.4,301,22
+Lenovo IdeaPad 3 Core i5 12th Gen,56049,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,247,21
+ASUS VivoBook 14 Pentium Silver,25990,Intel Pentium Silver Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,4.1,233,32
+acer Extensa Core i3 11th Gen,33990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,741,84
+ASUS VivoBook 14 (2022) Ryzen 5 Quad Core AMD R5,38990,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 RAM,32 bit Windows 11 Operating System,512 GB SSD,14,4.2,431,39
+Lenovo IdeaPad 3 Ryzen 5 Hexa Core 5500U,47039,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,1603,184
+DELL Core i5 12th Gen,67990,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.5,28,0
+ASUS Vivobook Ultra 14 (2022) Core i3 11th Gen,40990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.3,389,44
+realme Book (Slim) Core i3 11th Gen,46990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,14,4.4,12584,1870
+Lenovo Intel Core i3 11th Gen,38500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,453,38
+ASUS Vivobook 15 Core i5 11th Gen,49990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,206,20
+APPLE 2022 MacBook AIR M2,131990,Apple M2 Processor,8 GB Unified Memory RAM,Mac OS Operating System,512 GB SSD,13.6,,,
+ASUS Zenbook 14X (2022) Space Edition Core i9 12th Gen,159990,Intel Core i9 Processor (12th Gen),32 GB LPDDR5 RAM,Windows 11 Operating System,1 TB SSD,14,4.7,6,2
+Lenovo Intel Core i5 11th Gen,52890,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+MSI Alpha 15 AMD Advantage Edition Ryzen 7 Octa Core 5800H,74990,AMD Ryzen 7 Octa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.5,413,63
+ASUS VivoBook K15 OLED Ryzen 7 Octa Core AMD R7,61990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.4,1087,131
+ASUS ZenBook Duo 14 (2021) Touch Panel Core i5 11th Gen,74990,Intel Core i5 Processor (11th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,14,,,
+Lenovo IdeaPad 3 Core i3 11th Gen,38699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,4658,449
+ASUS Vivobook 14 (2022) Core i3 12th Gen,46990,Intel Core i3 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,5,7,2
+DELL Core i5 12th Gen,57990,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,3.8,25,2
+acer Aspire 7 Ryzen 5 Hexa Core AMD R5,51990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.4,5533,674
+Lenovo IdeaPad 3 Core i5 11th Gen,52990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,280,21
+HP Pavilion Core i7 12th Gen,89990,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,14,,,
+APPLE 2020 Macbook Air M1,86990,Apple M1 Processor,8 GB DDR4 RAM,Mac OS Operating System,256 GB SSD,13.3,4.7,8865,795
+Lenovo IdeaPad 3 Ryzen 5 Hexa Core 5500U,47039,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,1603,184
+Lenovo IdeaPad 3 Core i5 12th Gen,56049,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,247,21
+ASUS VivoBook K15 OLED (2022) Core i5 11th Gen,64990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.3,652,85
+HP Pavilion Ryzen 5 Hexa Core AMD R5,64990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.5,327,51
+ASUS Core i3 10th Gen,35990,Intel Core i3 Processor (10th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.3,107,11
+Lenovo Intel Core i3 11th Gen,38290,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,3.9,37,1
+MSI Core i9 13th Gen,399990,Intel Core i9 Processor (13th Gen),32 GB DDR5 RAM,Windows 11 Operating System,2 TB SSD,17,,,
+ASUS Chromebook Celeron Dual Core,17990,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,Chrome Operating System,2 TB SSD,15.6,3.7,1671,226
+ASUS Chromebook Flip Touch Celeron Dual Core,15990,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,Chrome Operating System,2 TB SSD,11.6,4,1853,287
+Lenovo Intel Core i5 11th Gen,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+ASUS Core i3 12th Gen,42990,Intel Core i3 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,3.6,5,0
+MSI Core i7 13th Gen,138990,Intel Core i7 Processor (13th Gen),16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,17.3,,,
+ASUS Vivobook 16X Ryzen 5 Hexa Core R5,54990,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,16,4.9,7,0
+Lenovo V15 G2 Core i3 11th Gen,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.4,53,3
+Infinix X1 Slim Series Core i3 10th Gen,30990,Intel Core i3 Processor (10th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,256 GB SSD,14,4.3,4379,580
+Lenovo IdeaPad Ryzen 5 Hexa Core 5500U,50990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14,4,57,10
+ASUS ZenBook Duo 14 (2021) Touch Panel Core i5 11th Gen,79990,Intel Core i5 Processor (11th Gen),16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.8,19,1
+DELL Vostro Ryzen 3 Quad Core 5425U,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,,,
+acer Aspire 3 Dual Core 3020e,22900,AMD Dual Core Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,4.1,694,67
+Lenovo IdeaPad 1 Ryzen 3 Dual Core 3250U,33751,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,778,78
+Lenovo Legion 5 Ryzen 7 Octa Core 5800H,116250,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,,,
+ASUS Vivobook 15 OLED (2022) Core i3 12th Gen,50990,Intel Core i3 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.5,23,5
+ASUS VivoBook 15 (2021) Core i5 10th Gen,45990,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,564,55
+ASUS Ryzen 7 Octa Core,90400,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,Windows 11 Operating System,1 TB SSD,17.3,,,
+HP Pavilion x360 Core i7 12th Gen,91990,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14,,,
+HP Pavilion Intel Core i5 12th Gen,62499,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.3,142,11
+ASUS TUF Dash F15 (2022) Core i5 12th Gen,76999,Intel Core i5 Processor (12th Gen),8 GB DDR5 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,97,10
+ASUS Vivobook 15 Touch Core i5 11th Gen,51990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.3,146,14
+HP Athlon Dual Core 3050U,32990,AMD Athlon Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4,947,100
+ASUS VivoBook K15 OLED (2022) Core i3 11th Gen,45990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.5,624,90
+HP OMEN Core i7 11th Gen,88499,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,16.1,5,3,1
+ASUS Vivobook Pro 15 OLED Ryzen 7 Octa Core AMD R7,65990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.5,715,112
+MSI Sword 15 Core i5 12th Gen,85990,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.7,62,17
+Lenovo Intel Core i5 11th Gen,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+HP Envy x360 Creator OLED Intel Evo Core i7 12th Gen,104990,Intel Core i7 Processor (12th Gen),16 GB LPDDR4X RAM,Windows 11 Operating System,512 GB SSD,13.3,,,
+APPLE 2022 MacBook AIR M2,139990,Apple M2 Processor,8 GB Unified Memory RAM,Mac OS Operating System,512 GB SSD,13.6,4.3,32,1
+APPLE 2022 MacBook AIR M2,113490,Apple M2 Processor,8 GB Unified Memory RAM,Mac OS Operating System,256 GB SSD,13.6,4.8,45,5
+Lenovo V15 G2 Core i3 11th Gen,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.4,53,3
+APPLE 2022 MacBook AIR M2,113990,Apple M2 Processor,8 GB Unified Memory RAM,Mac OS Operating System,256 GB SSD,13.6,4.7,50,3
+ASUS Vivobook S14 OLED (2022) Intel EVO Core i5 12th Gen,74990,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.5,1266,172
+ASUS TUF Gaming A15 with 90Whr Battery Ryzen 7 Octa Core 5800H,89990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.5,174,22
+DELL Vostro Ryzen 3 Quad Core 5425U,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,,,
+HP 14s Intel Core i3 11th Gen,41990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.2,3572,327
+ASUS VivoBook Flip 14 Core i5 11th Gen,63990,Intel Core i5 Processor (11th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.6,25,1
+HP Envy x360 Creator Intel Evo Core i5 12th Gen,86990,Intel Core i5 Processor (12th Gen),16 GB LPDDR4X RAM,Windows 11 Operating System,512 GB SSD,13.4,4.7,6,1
+HP Pavilion Ryzen 5 Hexa Core 5625U,61990,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,5,3,1
+ASUS TUF Gaming A17 (2022) with 90Whr Battery Ryzen 7 Octa Core AMD R7,88990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,17.3,4.7,13,1
+MSI Core i7 13th Gen,249990,Intel Core i7 Processor (13th Gen),32 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,17.3,,,
+ASUS ROG Strix G15 (2022) with 90Whr Battery Ryzen 7 Octa Core 6800H,129990,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,,,
+MSI Core i9 12th Gen,294990,Intel Core i9 Processor (12th Gen),32 GB DDR5 RAM,64 bit Windows 11 Operating System,2 TB SSD,17.3,,,
+ASUS VivoBook K15 OLED Ryzen 7 Octa Core AMD R7,61990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.4,1087,131
+Lenovo IdeaPad Gaming 3 Ryzen 7 Octa Core AMD R7,76990,AMD Ryzen 7 Octa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.5,374,46
+APPLE MacBook Air M1,104990,Apple M1 Processor,16 GB DDR4 RAM,Mac OS Operating System,256 GB SSD,13.3,4.7,719,83
+Lenovo IdeaPad Core i5 11th Gen,78990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.4,41,3
+DELL Core i5 11th Gen,63990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.1,187,16
+DELL Core i7 12th Gen,107990,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,,,
+ASUS TUF Dash F15 (2022) Core i5 12th Gen,76999,Intel Core i5 Processor (12th Gen),8 GB DDR5 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,97,10
+Lenovo Intel Core i5 11th Gen,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+ASUS Vivobook 15 OLED (2022) Core i5 12th Gen,68990,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.6,11,1
+acer Aspire 7 Core i5 12th Gen,57990,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,3065,354
+ASUS TUF Dash F15 Core i7 12th Gen,95990,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,4.5,136,16
+Lenovo V15 G2 Core i3 11th Gen,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.4,53,3
+Lenovo IdeaPad 3 Core i5 11th Gen,52990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,280,21
+MSI Creator M16 Core i7 12th Gen,105990,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,16,,,
+HP Envy x360 Creator Intel Evo Core i5 12th Gen,82990,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,,,
+DELL Vostro Ryzen 3 Quad Core 5425U,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,,,
+Lenovo IdeaPad Core i5 11th Gen,78990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.4,41,3
+realme Book(Slim) Intel Evo Core i5 11th Gen,59990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14,4.4,7200,967
+HP 14s Intel Core i5 12th Gen,61400,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.2,1346,124
+Infinix X1 Slim Series Core i5 10th Gen,37990,Intel Core i5 Processor (10th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.2,713,103
+HP Pavilion Intel Core i5 12th Gen,77070,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.4,27,3
+ASUS Vivobook 14 (2022) Core i5 12th Gen,56990,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14,4.3,18,1
+acer Aspire 7 Ryzen 5 Hexa Core 5500U,56990,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.4,5533,674
+DELL Inspiron Core i3 11th Gen,42490,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.2,440,40
+acer Predator Helios 300 Core i7 11th Gen,95990,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|512 GB SSD,15.6,4.5,473,71
+DELL Inspiron Core i3 11th Gen,44290,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,3.1,15,3
+HP Pavilion Ryzen 5 Hexa Core 5625U,63550,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.4,218,19
+MSI Core i9 12th Gen,119990,Intel Core i9 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,4.4,29,8
+APPLE MacBook Air M1,129990,Apple M1 Processor,16 GB DDR4 RAM,Mac OS Operating System,512 GB SSD,13.3,4.7,719,83
+ASUS ROG Zephyrus G15 (2022) with 90Whr Battery Ryzen 9 Octa Core 6900HS,161990,AMD Ryzen 9 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,3.8,5,1
+Infinix INBook X2 Plus Core i5 11th Gen,47990,Intel Core i5 Processor (11th Gen),16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.5,6,1
+Lenovo Intel Core i3 11th Gen,38500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,453,38
+DELL G15 Ryzen 5 Hexa Core 5600H,73990,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.5,52,9
+APPLE 2021 Macbook Pro M1 Max,307990,Apple M1 Max Processor,32 GB Unified Memory RAM,Mac OS Operating System,1 TB SSD,16.2,4.3,13,5
+ASUS Touchscreen Core i3 12th Gen,45990,Intel Core i3 Processor (12th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,3.9,16,0
+Lenovo Intel Core i5 11th Gen,52890,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+Lenovo Celeron Dual Core,27990,Intel Celeron Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6,4,108,11
+MSI Core i5 11th Gen,62050,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.4,2547,319
+Infinix INBook X2 Plus Core i7 11th Gen,52990,Intel Core i7 Processor (11th Gen),16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,26,6
+Lenovo IdeaPad 3 Core i3 11th Gen,38699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,4658,449
+DELL Inspiron Core i3 11th Gen,44290,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,3.1,15,3
+acer Aspire 7 Core i5 12th Gen,57990,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,3065,354
+ASUS Vivobook Pro 15 OLED Ryzen 7 Octa Core AMD R7,65990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.5,715,112
+Lenovo IdeaPad 3 Core i5 11th Gen,52990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,280,21
+MSI Core i5 12th Gen,58490,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,,,
+ASUS Vivobook 14 (2022) Core i5 12th Gen,56990,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14,4.5,18,1
+DELL Inspiron Ryzen 3 Dual Core 3250U,41190,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,78,3
+Lenovo IdeaPad 3 Core i5 12th Gen,56049,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,247,21
+DELL Core i5 12th Gen,57990,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,3.9,30,2
+HP Victus Intel Core i7 12th Gen,85990,Intel Core i7 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,61,7
+Lenovo IdeaPad Core i5 11th Gen,55990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.3,2648,228
+Lenovo IdeaPad 3 Ryzen 5 Hexa Core 5500U,47039,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,1603,184
+ASUS VivoBook Flip 14 Core i3 11th Gen,44990,Intel Core i3 Processor (11th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,256 GB SSD,14,4.4,144,13
+DELL Inspiron Pentium Silver,32000,Intel Pentium Silver Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6,4.1,329,32
+ASUS Zenbook 14 OLED (2022) Intel EVO Core i5 12th Gen,89990,Intel Core i5 Processor (12th Gen),16 GB LPDDR5 RAM,Windows 11 Operating System,512 GB SSD,14,4,24,5
+Lenovo Intel Core i3 11th Gen,38500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,453,38
+HP Pavilion Intel Core i7 12th Gen,88900,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,4,24,2
+ASUS Vivobook 15 Touch Core i3 11th Gen,41990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,348,47
+Lenovo IdeaPad Gaming Ryzen 7 Octa Core 5800H,89990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,,,
+Lenovo Intel Core i5 11th Gen,52890,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+ASUS Vivobook Ultra 14 (2022) Core i3 11th Gen,44490,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14,4.3,222,28
+Lenovo IdeaPad Ryzen 5 Hexa Core 5500U,47990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.6,8,0
+SAMSUNG Core i7 12th Gen,72990,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.2,6,0
+Lenovo IdeaPad 3 Core i3 11th Gen,38699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,4658,449
+ASUS VivoBook Flip 14 Core i3 11th Gen,44990,Intel Core i3 Processor (11th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,256 GB SSD,14,4.4,144,13
+ASUS TUF Gaming F15 Core i5 10th Gen,65990,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,4.5,121,7
+realme Book(Slim) Intel Evo Core i5 11th Gen,59990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14,4.4,7200,967
+Lenovo IdeaPad 3 Core i5 11th Gen,52990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,280,21
+ASUS VivoBook K15 OLED Ryzen 5 Hexa Core AMD R5,56990,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.5,758,80
+HP G8 Core i3 11th Gen,34690,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,32 bit Windows 11 Operating System,512 GB SSD,14,4,66,2
+APPLE 2021 Macbook Pro M1 Pro,213894,Apple M1 Pro Processor,16 GB Unified Memory RAM,Mac OS Operating System,1 TB SSD,14.2,4.8,119,14
+Lenovo IdeaPad 3 Core i5 12th Gen,56049,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,247,21
+ASUS Vivobook 15 Core i3 10th Gen,35990,Intel Core i3 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.1,193,17
+HP Ryzen 5 Hexa Core 5500U,50499,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.2,225,18
+MSI Core i7 12th Gen,170990,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,17.3,,,
+Lenovo IdeaPad 3 Ryzen 5 Hexa Core 5500U,47039,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,1603,184
+acer Extensa Core i5 11th Gen,40990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4,168,8
+DELL Core i5 12th Gen,78190,Intel Core i5 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,13.3,4.5,8,0
+DELL Ryzen 3 Quad Core 5425U,43490,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.4,9,1
+Lenovo Intel Core i5 11th Gen,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+HP Ryzen 5 Hexa Core 5500U,50499,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.2,225,18
+ASUS Vivobook 15 Core i5 11th Gen,49990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,157,16
+APPLE 2023 MacBook Pro M2 Pro,199900,Apple M2 Pro Processor,16 GB Unified Memory RAM,Mac OS Operating System,512 GB SSD,14,,,
+Lenovo V15 G2 Core i3 11th Gen,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.4,53,3
+HP G8 Core i3 11th Gen,34690,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,32 bit Windows 11 Operating System,512 GB SSD,14,4,66,2
+DELL Ryzen 7 Octa Core AMD R7,99990,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,5,3,0
+DELL Ryzen 5 Quad Core 3450U,36990,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,3.8,5,1
+DELL Vostro Ryzen 3 Quad Core 5425U,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,,,
+ASUS ROG Zephyrus Duo 16 (2022) Dual Screen Laptop with 90Whr Battery Ryzen 7 Octa Core 6800H,224990,AMD Ryzen 7 Octa Core Processor,32 GB DDR5 RAM,64 bit Windows 11 Operating System,2 TB SSD,16,,,
+ASUS Vivobook K15 OLED Ryzen 5 Hexa Core AMD R5,56990,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.5,758,80
+APPLE 2022 MacBook Pro M2,121990,Apple M2 Processor,8 GB Unified Memory RAM,Mac OS Operating System,256 GB SSD,13.3,4.7,22,1
+ASUS ROG Strix G15 Ryzen 7 Octa Core AMD R7,87990,AMD Ryzen 7 Octa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.5,1224,158
+Lenovo IdeaPad 1 Ryzen 5 Quad Core 3500U,42900,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,673,76
+DELL Ryzen 7 Octa Core AMD R7,88490,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,5,7,1
+ASUS Vivobook 14 (2022) Core i3 12th Gen,46990,Intel Core i3 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.2,12,2
+ASUS Vivobook Pro 15 OLED Core i5 12th Gen,89990,Intel Core i5 Processor (12th Gen),16 GB LPDDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.4,80,12
+MSI Core i7 12th Gen,140990,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,4,5,0
+APPLE MacBook Air M1,106490,Apple M1 Processor,16 GB DDR4 RAM,Mac OS Operating System,256 GB SSD,13.3,4.7,719,83
+HP Chromebook x360 Intel Celeron Dual Core,25990,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,64 bit Chrome Operating System,256 GB SSD,14,4.2,24,4
+ASUS Vivobook Pro 15 OLED Core i5 12th Gen,89990,Intel Core i5 Processor (12th Gen),16 GB LPDDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.4,80,12
+ASUS Vivobook Pro 15 OLED Core i5 12th Gen,89990,Intel Core i5 Processor (12th Gen),16 GB LPDDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.4,80,12
+MSI Core i7 12th Gen,140990,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,4,5,0
+APPLE MacBook Air M1,106490,Apple M1 Processor,16 GB DDR4 RAM,Mac OS Operating System,256 GB SSD,13.3,4.7,719,83
+Lenovo Intel Core i3 11th Gen,38500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,453,38
+DELL G15 Core i5 12th Gen,79990,Intel Core i5 Processor (12th Gen),8 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.1,35,5
+DELL Core i7 12th Gen,89990,Intel Core i7 Processor (12th Gen),16 GB LPDDR4 RAM,Windows 11 Operating System,512 GB SSD,13.3,,,
+DELL Core i5 11th Gen,72990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.1,187,16
+Lenovo Intel Core i5 11th Gen,52890,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+HP Pavilion Ryzen 5 Hexa Core 5625U,63550,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.4,218,19
+DELL Core i5 12th Gen,76519,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.5,4,1
+ASUS Vivobook 15 Ryzen 3 Dual Core AMD R3,34990,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.4,405,48
+Lenovo IdeaPad 3 Core i3 11th Gen,38699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,4658,449
+DELL Inspiron Ryzen 3 Dual Core 3250U,38029,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6,4.2,435,56
+APPLE MacBook Air M1,104990,Apple M1 Processor,8 GB DDR4 RAM,Mac OS Operating System,512 GB SSD,13.3,4.7,8865,795
+HP Chromebook x360 Intel Celeron Dual Core,25990,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,64 bit Chrome Operating System,512 GB SSD,14,4.2,24,4
+Lenovo IdeaPad 3 Core i5 11th Gen,52990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,280,21
+ASUS Pentium Quad Core,23990,Intel Pentium Quad Core Processor,4 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,15.6,3.7,3191,410
+acer Extensa Core i3 11th Gen,31990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6,4.4,385,34
+DELL Inspiron Core i5 11th Gen,49890,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,17,3
+Lenovo IdeaPad 3 Core i5 12th Gen,56049,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,247,21
+ASUS Vivobook Flip 14 (2022) Touch Panel Core i5 12th Gen,74990,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.2,10,1
+DELL Inspiron Core i5 11th Gen,60290,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,43,4
+APPLE MacBook Air M1,126990,Apple M1 Processor,16 GB DDR4 RAM,Mac OS Operating System,512 GB SSD,13.3,4.7,719,83
+Lenovo IdeaPad 3 Ryzen 5 Hexa Core 5500U,47039,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,1603,184
+ASUS TUF Gaming F15 Core i5 10th Gen,60990,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.5,5145,564
+HP OMEN Core i7 12th Gen,155490,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,16.1,,,
+Lenovo Intel Core i5 11th Gen,64990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.4,395,43
+Lenovo Intel Core i3 11th Gen,38500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,453,38
+DELL Ryzen 3 Quad Core 5425U,41490,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.4,43,3
+ASUS TUF Dash F15 Core i5 12th Gen,77990,Intel Core i5 Processor (12th Gen),16 GB DDR5 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,97,10
+ASUS TUF Gaming F15 (2022) Core i7 12th Gen,94500,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.4,41,6
+Lenovo Intel Core i5 11th Gen,52890,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+ASUS ROG Strix G15 Advantage Edition Ryzen 9 Octa Core AMD R9,154990,AMD Ryzen 9 Octa Core Processor,16 GB DDR4 RAM,Windows 10 Operating System,1 TB SSD,15.6,4.6,265,56
+DELL Allienware Core i7 12th Gen,168990,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,,,
+DELL Core i5 12th Gen,63890,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,,,
+Lenovo IdeaPad 3 Core i3 11th Gen,38699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,4658,449
+HP Pavilion Intel Core i5 12th Gen,74990,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4,90,11
+ASUS TUF Gaming A15 Ryzen 5 Hexa Core AMD R5,65990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,4.5,258,29
+ASUS Pentium Quad Core,23990,Intel Pentium Quad Core Processor,4 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,15.6,3.7,3191,410
+Lenovo IdeaPad 3 Core i5 11th Gen,52990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,280,21
+APPLE 2020 Macbook Pro M1,114990,Apple M1 Processor,8 GB DDR4 RAM,Mac OS Operating System,256 GB SSD,13.3,4.7,784,87
+acer Nitro 5 Ryzen 5 Hexa Core 5600H,63990,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,313,31
+MSI Katana GF66 Core i5 12th Gen,80990,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.6,21,3
+Lenovo IdeaPad 3 Core i5 12th Gen,56049,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,247,21
+HP Pavilion Core i7 12th Gen,97990,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,14,,,
+HP 15s Intel Core i3 11th Gen,39490,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6,4.4,80,11
+ASUS ROG Strix SCAR 15 (2022) Core i9 12th Gen,281990,Intel Core i9 Processor (12th Gen),32 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,5,4,0
+Lenovo IdeaPad 3 Ryzen 5 Hexa Core 5500U,47039,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,1603,184
+Lenovo IdeaPad 3 Core i3 10th Gen,31561,Intel Core i3 Processor (10th Gen),4 GB DDR4 RAM,Windows 11 Operating System,256 GB SSD,14,3.9,13,0
+ASUS Vivobook 14 Core i5 10th Gen,48990,Intel Core i5 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,3.7,13,3
+ASUS Core i3 11th Gen,36990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,256 GB SSD,15.6,,,
+Lenovo Intel Core i5 11th Gen,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+DELL Vostro Core i5 12th Gen,66190,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,16,,,
+HP Pavilion Gaming Ryzen 5 Quad Core 3550H,54990,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,15.6,4.2,15492,2054
+APPLE 2021 Macbook Pro M1 Pro,243990,Apple M1 Pro Processor,16 GB Unified Memory RAM,Mac OS Operating System,1 TB SSD,16.2,4.8,119,14
+Lenovo V15 G2 Core i3 11th Gen,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.4,53,3
+DELL Inspiron Ryzen 3 Dual Core 3250U,41890,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,26,2
+ASUS Zenbook Flip 13 OLED Touch Panel Intel EVO Core i7 11th Gen,104990,Intel Core i7 Processor (11th Gen),16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,13.3,,,
+ASUS VivoBook K15 OLED (2022) Core i3 11th Gen,42990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6,4.4,1443,248
+DELL Vostro Ryzen 3 Quad Core 5425U,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,,,
+MSI Crosshair 15 Core i7 12th Gen,104990,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.6,14,1
+Lenovo Legion 5 Core i7 10th Gen,86490,Intel Core i7 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.5,148,19
+MSI Delta 15 AMD Advantage Edition Ryzen 9 Octa Core 5900HX 5th Gen,129990,AMD Ryzen 9 Octa Core Processor (5th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,4.8,41,8
+DELL Core i5 11th Gen,52890,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,3.8,5,1
+HP Victus Ryzen 7 Octa Core 5800H,71990,AMD Ryzen 7 Octa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,16.1,,,
+ASUS ROG Zephyrus G14 (2022) Ryzen 9 Octa Core AMD R9,191990,AMD Ryzen 9 Octa Core Processor,32 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,14,,,
+ASUS ROG Strix G15 with 90Whr Battery Ryzen 7 Octa Core 5800H,146990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,5,6,0
+HP Envy x360 Creator OLED Intel Evo Core i7 12th Gen,109990,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,Windows 11 Operating System,1 TB SSD,15.6,,,
+HP OMEN Ryzen 5 Hexa Core AMD R5,77990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,16.1,4.8,4,0
+Lenovo Ryzen 3 Dual Core 3250U,31490,AMD Ryzen 3 Dual Core Processor,4 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,15.6,3.6,84,16
+Lenovo Ryzen 5 Hexa Core 5500U,39990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,,,
+acer Swift 3 Ryzen 5 Hexa Core 5500U,61500,AMD Ryzen 5 Hexa Core Processor,8 GB LPDDR4X RAM,64 bit Windows 10 Operating System,512 GB SSD,14,4.5,29,6
+acer Aspire 5 Core i5 12th Gen,57990,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,,,
+APPLE 2022 MacBook AIR M2,131990,Apple M2 Processor,16 GB Unified Memory RAM,Mac OS Operating System,256 GB SSD,13.6,,,
+ASUS Ryzen 9 Octa Core 9th Gen,90390,AMD Ryzen 9 Octa Core Processor (9th Gen),16 GB DDR4 RAM,Windows 11 Operating System,1 TB SSD,15.6,,,
+Lenovo Intel Core i5 11th Gen,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+ASUS ROG Strix Scar 15 (2022) Core i9 12th Gen,228928,Intel Core i9 Processor (12th Gen),32 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,4.6,10,0
+ALIENWARE Core i9 10th Gen,345390,Intel Core i9 Processor (10th Gen),32 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,15.6,4.6,10,3
+DELL Inspiron 7000 Core i5 10th Gen,62990,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14,3.8,17,3
+Lenovo V15 G2 Core i3 11th Gen,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.4,53,3
+ASUS ROG Strix G15 (2022) with 90Whr Battery Ryzen 9 Octa Core 6900HX,174990,AMD Ryzen 9 Octa Core Processor,16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,15.6,,,
+DELL Inspiron Core i5 12th Gen,61690,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,,,
+GIGABYTE G5 ME,79990,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,,,
+DELL Vostro Ryzen 3 Quad Core 5425U,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,,,
+acer Nitro 5 Ryzen 5 Hexa Core 5600H,75990,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,Windows 11 Operating System,1 TB HDD|512 GB SSD,15.6,4.3,222,25
+Lenovo Legion 5 Pro Ryzen 7 Octa Core 5800H,129989,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,16,4.7,32,5
+APPLE 2022 MacBook AIR M2,139990,Apple M2 Processor,8 GB Unified Memory RAM,Mac OS Operating System,512 GB SSD,13.6,5,8,2
+HP Pavilion Intel Core i5 11th Gen,68990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.4,288,23
+ASUS ROG Strix G15 (2022) with 90Whr Battery Ryzen 9 Octa Core 6900HX,177990,AMD Ryzen 9 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,,,
+Lenovo IdeaPad 3 Core i5 12th Gen,62490,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.1,87,11
+APPLE 2020 Macbook Air M1,109990,Apple M1 Processor,8 GB DDR4 RAM,Mac OS Operating System,512 GB SSD,13.3,4.6,1149,126
+SAMSUNG Galaxy Book2 Core i5 12th Gen,61990,Intel Core i5 Processor (12th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6,4.6,82,13
+DELL Inspiron Core i5 11th Gen,60990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.1,31,2
+ASUS TUF GAMING A15 Ryzen 7 Octa Core 4800H,70990,AMD Ryzen 7 Octa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,,,
+HP OMEN Ryzen 7 Octa Core AMD R7,110000,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,16.1,3.8,5,1
+ASUS ROG Strix G15 Ryzen 7 Octa Core AMD R7,76990,AMD Ryzen 7 Octa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.5,193,18
+Infinix INBook X2 Plus Core i3 11th Gen,33990,Intel Core i3 Processor (11th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,197,43
+acer Extensa Core i3 11th Gen,31990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6,4.4,385,34
+HP Core i9 12th Gen,299999,Intel Core i9 Processor (12th Gen),32 GB DDR5 RAM,64 bit Windows 11 Operating System,2 TB SSD,17.3,,,
+Lenovo Intel Core i5 11th Gen,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+APPLE MacBook Air M1,109990,Apple M1 Processor,8 GB DDR4 RAM,Mac OS Operating System,512 GB SSD,13.3,4.7,8865,795
+ASUS ROG Zephyrus G15 (2020) Ryzen 9 Octa Core 4900HS,129990,AMD Ryzen 9 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,15.6,4.4,193,39
+Infinix ZERO BOOK Series Laptop Intel Core i5 12th Gen,51532,Intel Core i5 Processor (12th Gen),16 GB LPDDR5 RAM,Windows 11 Operating System,512 GB SSD,15.6,4,32,14
+Lenovo V15 G2 Core i3 11th Gen,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.4,53,3
+MSI Pulse GL66 Core i7 11th Gen,144100,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,15.6,4.4,136,23
+HP Pavilion Intel Core i5 12th Gen,63500,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,,,
+Infinix INBook X1 Neo Series Celeron Quad Core,20990,Intel Celeron Quad Core Processor,4 GB LPDDR4X RAM,64 bit Windows 11 Operating System,128 GB SSD,14,4.2,884,151
+DELL Vostro Ryzen 3 Quad Core 5425U,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,,,
+ASUS Zenbook Pro 14 Duo OLED (2022) with Dual Screen Touch Panel Core i5 12th Gen,124990,Intel Core i5 Processor (12th Gen),16 GB LPDDR5 RAM,Windows 11 Operating System,512 GB SSD,14.5,,,
+GIGABYTE G5 GE,72990,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,,,
+Lenovo Legion 5 Pro Ryzen 7 Octa Core 6800H,189990,AMD Ryzen 7 Octa Core Processor,32 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,16,,,
+acer Nitro 5 Core i5 11th Gen,65999,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.6,13,1
+ASUS Eeebook 14 Pentium Quad Core,28500,Intel Pentium Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.1,,,
+MSI GP66 Leopard Core i7 11th Gen,129990,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,15.6,4.6,113,27
+Lenovo Celeron Dual Core,19990,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,DOS Operating System,256 GB HDD|256 GB SSD,15.6,3.7,288,26
+HP Victus Intel Core i5 12th Gen,67990,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,496,41
+ASUS TUF Gaming A17 Ryzen 5 Hexa Core AMD R5,64590,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,17.3,4.5,533,93
+acer Nitro 5 Ryzen 7 Octa Core AMD R7,115300,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|256 GB SSD,15.6,4.4,497,69
+acer Aspire 7 Core i5 12th Gen,61990,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,3065,354
+acer Aspire 3 Pentium Silver,26490,Intel Pentium Silver Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,4.2,19,2
+MSI Pulse GL66 Core i7 11th Gen,114990,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,15.6,4.5,153,25
+ASUS TUF Gaming F17 (2022) Core i7 12th Gen,114990,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,17.3,3.9,12,0
+DELL Ryzen 5 Hexa Core 5625U,59990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,16,4.7,7,2
+Lenovo Intel Core i3 11th Gen,38500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,453,38
+DELL Vostro Ryzen 5 Hexa Core 5625U,63590,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,16,,,
+HP Core i7 12th Gen,199999,Intel Core i7 Processor (12th Gen),32 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,17.3,,,
+DELL Allienware Core i7 12th Gen,300490,Intel Core i7 Processor (12th Gen),32 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,17.3,,,
+Lenovo Intel Core i5 11th Gen,52890,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+ASUS Vivobook Ultra 14 (2022) Core i3 11th Gen,40990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.3,389,44
+APPLE 2020 Macbook Air M1,109990,Apple M1 Processor,8 GB DDR4 RAM,Mac OS Operating System,512 GB SSD,13.3,4.6,1149,126
+HP Victus Ryzen 5 Hexa Core 5600H,72990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,,,
+Lenovo IdeaPad 3 Core i3 11th Gen,38699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,4658,449
+ASUS TUF Gaming A17 Ryzen 5 Hexa Core AMD R5,64590,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,17.3,4.5,533,93
+acer Nitro 5 Ryzen 7 Octa Core AMD R7,115300,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|256 GB SSD,15.6,4.4,497,69
+acer Travelmate Core i3 11th Gen,46040,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|256 GB SSD,14,4.1,68,6
+Lenovo IdeaPad 3 Core i5 11th Gen,52990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,280,21
+ASUS Ryzen 5 Dual Core 5th Gen,55990,AMD Ryzen 5 Dual Core Processor (5th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.6,10,1
+HP Celeron Dual Core,24999,Intel Celeron Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,3.7,65,7
+ASUS TUF Gaming A17 Ryzen 7 Octa Core 4800H,76990,AMD Ryzen 7 Octa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,17.3,4.5,17,4
+Lenovo IdeaPad 3 Core i5 12th Gen,56049,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,247,21
+DELL Vostro Ryzen 7 Octa Core 5825U,71590,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,16,,,
+DELL Inspiron Ryzen 5 Hexa Core 5625U,59999,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,,,
+DELL Allienware Core i9 11th Gen,323990,Intel Core i9 Processor (11th Gen),32 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,17.3,,,
+Lenovo IdeaPad 3 Ryzen 5 Hexa Core 5500U,47039,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,1603,184
+HP Ryzen 3 Quad Core 5300U,40390,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.3,2025,257
+Infinix INBook X1 Neo Series Celeron Quad Core,20990,Intel Celeron Quad Core Processor,4 GB LPDDR4X RAM,64 bit Windows 11 Operating System,128 GB SSD,14,4.2,884,151
+HP Pavilion Ryzen 5 Hexa Core AMD R5,61990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.5,99,13
+Lenovo Intel Core i5 11th Gen,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+Lenovo Intel Core i5 12th Gen,68400,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4,5,1
+DELL Core i5 12th Gen,88990,Intel Core i5 Processor (12th Gen),8 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,,,
+Lenovo Legion 5 Pro Ryzen 7 Octa Core 6800H,159990,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,16,,,
+Lenovo V15 G2 Core i3 11th Gen,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.4,53,3
+DELL Ryzen 3 Dual Core 3250U,39490,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4,29,2
+APPLE 2022 MacBook AIR M2,150990,Apple M2 Processor,16 GB Unified Memory RAM,Mac OS Operating System,512 GB SSD,13.6,,,
+APPLE 2021 Macbook Pro M1 Pro,241990,Apple M1 Pro Processor,16 GB Unified Memory RAM,Mac OS Operating System,1 TB SSD,16.2,4.8,119,14
+DELL Vostro Ryzen 3 Quad Core 5425U,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,,,
+DELL Core i3 12th Gen,56749,Intel Core i3 Processor (12th Gen),8 GB DDR5 RAM,Windows 11 Operating System,256 GB SSD,14,,,
+ASUS ROG Flow X13 (2022) with Radeon RX 6850M XT eGPU Ryzen 7 Octa Core 6800HS,247990,AMD Ryzen 7 Octa Core Processor,16 GB LPDDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,13.4,,,
+ASUS ROG Flow Z13 (2022) Core i9 12th Gen,181990,Intel Core i9 Processor (12th Gen),16 GB LPDDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,13.4,,,
+HP Envy x360 Creator OLED Intel Evo Core i7 12th Gen,114990,Intel Core i7 Processor (12th Gen),16 GB LPDDR4X RAM,Windows 11 Operating System,1 TB SSD,13.3,3.8,6,1
+DELL Ryzen 9 Octa Core 6900HX,146990,AMD Ryzen 9 Octa Core Processor,16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,15.6,,,
+GIGABYTE AERO 5 KE4 Core i7 12th Gen,149990,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,,,
+Infinix ZERO BOOK Series Laptop Intel Core i5 12th Gen,51532,Intel Core i5 Processor (12th Gen),16 GB LPDDR5 RAM,Windows 11 Operating System,512 GB SSD,15.6,4,32,14
+DELL Inspiron Ryzen 5 Hexa Core 5625U,52490,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.1,23,4
+MSI Raider GE66 Core i7 12th Gen,244990,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,,,
+APPLE 2022 MacBook AIR M2,131990,Apple M2 Processor,16 GB Unified Memory RAM,Mac OS Operating System,256 GB SSD,13.6,,,
+ASUS TUF Dash F15 Core i5 12th Gen,77990,Intel Core i5 Processor (12th Gen),16 GB DDR5 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,97,10
+ASUS ROG Zephyrus M16 Core i7 11th Gen,139990,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,Windows 10 Operating System,1 TB SSD,16,4.3,8,0
+MSI Core i5 11th Gen,59990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.4,263,22
+acer Ryzen 5 Hexa Core 6600H,84990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,,,
+Lenovo Yoga Slim 7 Pro Intel Core i5 11th Gen,70900,Intel Core i5 Processor (11th Gen),16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.7,3,0
+Lenovo Intel Core i5 11th Gen,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+HP 15s Core i3 11th Gen,35699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6,4,5,0
+ASUS Vivobook S14 OLED (2022) Intel EVO Core i7 12th Gen,84990,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,3.9,45,9
+HP OMEN Core i7 12th Gen,128000,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,16.1,,,
+Lenovo V15 G2 Core i3 11th Gen,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.4,53,3
+DELL Inspiron 3000 Core i3 11th Gen,43500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,3.9,93,10
+Lenovo Core i5 11th Gen,58226,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 10 Operating System,512 GB SSD,15.6,,,
+DELL Core i7 11th Gen,103490,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,,,
+DELL Vostro Ryzen 3 Quad Core 5425U,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,,,
+ASUS Zenbook 13 Intel EVO Core i5 11th Gen,60990,Intel Core i5 Processor (11th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,13.3,4.4,72,9
+ASUS ROG Flow Z13 (2022) Core i7 12th Gen,150450,Intel Core i7 Processor (12th Gen),16 GB LPDDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,13.4,,,
+Lenovo Core i3 11th Gen,39990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.1,48,2
+acer Predator Helios 300 Core i9 11th Gen,139999,Intel Core i9 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,5,7,1
+acer Predator Helios 300 Core i7 12th Gen,156490,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,5,4,0
+HP Victus Ryzen 7 Octa Core 5800H,78990,AMD Ryzen 7 Octa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,,,
+Avita SATUS S111 Celeron Dual Core,16490,Intel Celeron Dual Core Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,128 GB SSD,14.1,3.8,689,92
+ASUS ROG Flow X16 (2022) with 90Whr Battery Ryzen 7 Octa Core AMD R7,171990,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,16,,,
+ALIENWARE Core i7 10th Gen,250000,Intel Core i7 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,15.6,4,5,2
+DELL Core i9 12th Gen,151990,Intel Core i9 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,,,
+DELL Inspiron Core i5 11th Gen,57990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,3.7,10,0
+DELL Ryzen 5 Hexa Core 5600H,71990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14.96,,,
+ASUS TUF GAMING A15 Ryzen 7 Octa Core 4800H,80990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,,,
+ASUS VivoBook 14 (2022) Ryzen 7 Quad Core AMD R7,46990,AMD Ryzen 7 Quad Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.2,1232,119
+HP Pavilion Core i5 12th Gen,73990,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,,,
+Lenovo Intel Core i5 11th Gen,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+DELL Ryzen 5 Hexa Core AMD R5,88990,AMD Ryzen 5 Hexa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,3.6,11,0
+HP Spectre Intel Evo Core i7 12th Gen,145499,Intel Core i7 Processor (12th Gen),16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,16,3.7,3,0
+Infinix INBook X2 Plus Core i3 11th Gen,33990,Intel Core i3 Processor (11th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,197,43
+Lenovo V15 G2 Core i3 11th Gen,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.4,53,3
+MSI Stealth GS66 Core i7 12th Gen,275990,Intel Core i7 Processor (12th Gen),32 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,,,
+ASUS Vivobook 15 Core i3 11th Gen,39990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.4,44,1
+HP Core i5 7th Gen,58800,Intel Core i5 Processor (7th Gen),8 GB DDR3 RAM,64 bit Windows 10 Operating System,256 GB SSD,13.3,4.3,6,3
+DELL Vostro Ryzen 3 Quad Core 5425U,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,,,
+ASUS TUF Gaming F15 Core i7 11th Gen,101490,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,15.6,4.5,499,63
+APPLE 2021 Macbook Pro M1 Pro,219894,Apple M1 Pro Processor,16 GB Unified Memory RAM,Mac OS Operating System,1 TB SSD,14.2,4.8,119,14
+HP Victus Ryzen 5 Hexa Core 5600H,69990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.7,3,0
+DELL Insprion 3511 Core i3 11th Gen,41990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,Windows 10 Operating System,1 TB HDD,15.6,3.6,25,4
+ASUS VivoBook Ultra Ryzen 7 Octa Core AMD R7,57990,AMD Ryzen 7 Octa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14,4.3,74,7
+ASUS ROG Zephyrus G15 (2022) with 90Whr Battery Ryzen 7 Octa Core 6800HS,162990,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,,,
+ASUS ASUS TUF Dash F15 Core i7 12th Gen,89990,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,15.6,,,
+DELL G15 Ryzen 5 Hexa Core AMD R5,72790,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.6,213,36
+acer Aspire 5 Core i5 11th Gen,60130,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|256 GB SSD,15.6,4.1,85,5
+MSI GF65 Thin Core i5 9th Gen,74990,Intel Core i5 Processor (9th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.6,893,173
+ASUS ROG Zephyrus G15 (2022) with 90Whr Battery Ryzen 7 Octa Core 6800HS,157990,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,4,4,0
+ASUS ROG Flow X13 (2022) with Radeon RX 6850M XT eGPU Ryzen 7 Octa Core 6800HS,284990,AMD Ryzen 7 Octa Core Processor,32 GB LPDDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,13.4,,,
+ASUS Core i7 11th Gen,59490,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.6,5,0
+DELL Core i5 11th Gen,58490,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4,3,2
+ASUS ROG Zephyrus G15 (2022) Ryzen 9 Octa Core 6900HS,254990,AMD Ryzen 9 Octa Core Processor,16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,15.6,,,
+Lenovo Intel Core i5 11th Gen,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+Lenovo Ryzen 7 Octa Core 5800H,218290,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,16,,,
+Avita Pura E Core i3 10th Gen,29990,Intel Core i3 Processor (10th Gen),4 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,14,,,
+HP HP Envy x360 Ryzen 7 Octa Core 5800U,98060,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,13.3,,,
+Lenovo V15 G2 Core i3 11th Gen,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.4,53,3
+ASUS VivoBook Gaming (2020) Core i7 10th Gen,87390,Intel Core i7 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|256 GB SSD,15.6,4.3,273,41
+HP Core i7 12th Gen,171990,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,16.1,,,
+ALIENWARE Core i7 10th Gen,214790,Intel Core i7 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,15.6,4.1,13,4
+DELL Vostro Ryzen 3 Quad Core 5425U,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,,,
+ALIENWARE Core i7 10th Gen,199990,Intel Core i7 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.9,12,0
+HP Pavilion PLUS Core i5 12th Gen,85490,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14,,,
+HP Chromebook Intel Core i5 11th Gen,61990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Chrome Operating System,256 GB SSD,14,4.7,3,0
+APPLE 2023 MacBook Pro M2 Pro,249900,Apple M2 Pro Processor,16 GB Unified Memory RAM,Mac OS Operating System,1 TB SSD,14,,,
+Mi Notebook Horizon Edition 14 Core i7 10th Gen,59990,Intel Core i7 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14,4.2,569,59
+ASUS ROG Zephyrus Duo 16 (2022) Dual Screen Laptop with 90Whr Battery Ryzen 7 Octa Core 6800H,204000,AMD Ryzen 7 Octa Core Processor,32 GB DDR5 RAM,64 bit Windows 11 Operating System,2 TB SSD,16,,,
+DELL Inspiron Core i5 11th Gen,61890,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,,,
+acer Predator Triton 500 SE Core i7 12th Gen,229990,Intel Core i7 Processor (12th Gen),32 GB LPDDR5 RAM,64 bit Windows 11 Operating System,2 TB SSD,16,,,
+ASUS ROG Strix Scar 17 SE (2022) with 90Whr Battery Core i9 12th Gen,399990,Intel Core i9 Processor (12th Gen),32 GB DDR5 RAM,64 bit Windows 11 Operating System,4 TB SSD,17.3,,,
+HP Pavilion Core i5 12th Gen,74990,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,,,
+HP Victus Intel Core i7 12th Gen,132765,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,16.1,,,
+acer Aspire 5 Core i5 11th Gen,46990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,14,3.7,337,35
+ASUS ROG Strix G15 (2022) with 90Whr Battery Ryzen 9 Octa Core 6900HX,174990,AMD Ryzen 9 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,,,
+DELL Vostro Core i3 11th Gen,42690,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.96,4.4,171,18
+HP Pavilion Gaming Ryzen 5 Quad Core 3550H,59990,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.4,2208,248
+Lenovo Intel Core i5 11th Gen,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+APPLE 2021 Macbook Pro M1 Pro,222990,Apple M1 Pro Processor,16 GB Unified Memory RAM,Mac OS Operating System,512 GB SSD,16.2,4.8,119,14
+ASUS Core i3 12th Gen,42990,Intel Core i3 Processor (12th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,3.8,5,2
+MSI GP65 Leopard Core i7 10th Gen,156090,Intel Core i7 Processor (10th Gen),32 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|512 GB SSD,15.6,4.4,316,53
+Lenovo V15 G2 Core i3 11th Gen,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.4,53,3
+DELL G15 Core i5 10th Gen,69890,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.3,333,29
+ASUS VivoBook K15 OLED Ryzen 7 Octa Core AMD R7,63990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.6,58,7
+DELL G15 Core i7 12th Gen,108990,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4,12,4
+DELL Vostro Ryzen 3 Quad Core 5425U,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,,,
+ASUS ROG Flow Z13 (2022) with RTX 3080 eGPU Core i9 12th Gen,304980,Intel Core i9 Processor (12th Gen),16 GB LPDDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,13.4,,,
+DELL Inspiron Ryzen 7 Octa Core 5825U,84790,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,,,
+APPLE 2022 MacBook AIR M2,131990,Apple M2 Processor,16 GB Unified Memory RAM,Mac OS Operating System,256 GB SSD,13.6,,,
+MSI Bravo Ryzen 5 Hexa Core 5600H,58500,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.4,2239,299
+acer Aspire 3 Ryzen 3 Dual Core 3250U,33200,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.1,264,31
+DELL Inspiron Ryzen 3 Quad Core 5425U,41890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,3.9,8,0
+ASUS Ryzen 9 Octa Core 6900HX,210990,AMD Ryzen 9 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,17.3,,,
+DELL Allienware Core i7 12th Gen,176490,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,,,
+Lenovo IdeaPad Core i3 10th Gen,35990,Intel Core i3 Processor (10th Gen),4 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,4.2,66,8
+HP Spectre Intel Evo Core i7 12th Gen,130990,Intel Core i7 Processor (12th Gen),16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,13.5,,,
+DELL Ryzen 5 Hexa Core AMD R5,71990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.6,110,22
+ASUS ROG Strix G15 (2022) Ryzen 7 Octa Core AMD R7,105990,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,4.5,90,18
+Lenovo IdeaPad Gaming 3 Core i5 11th Gen,58900,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.1,45,10
+MSI Creator Z16 Core i9 11th Gen,210990,Intel Core i9 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,16,4.7,3,0
+Lenovo IdeaPad Slim 5 Ryzen 7 Hexa Core 5700U,65990,AMD Ryzen 7 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4,4,1
+Lenovo Intel Core i3 11th Gen,38500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,453,38
+acer Predator Helios 300 Core i7 10th Gen,150490,Intel Core i7 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,2 TB SSD,15.6,4.7,21,5
+DELL Vostro Core i3 10th Gen,42490,Intel Core i3 Processor (10th Gen),4 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,14,4.2,50,4
+APPLE 2022 MacBook AIR M2,131990,Apple M2 Processor,8 GB Unified Memory RAM,Mac OS Operating System,512 GB SSD,13.6,,,
+Lenovo IdeaPad 3 Core i3 11th Gen,38699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,4658,449
+Lenovo Intel Core i5 11th Gen,52890,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+ASUS Chromebook Celeron Dual Core,18990,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,64 bit Chrome Operating System,512 GB SSD,11.6,3.6,387,51
+DELL Inspiron Core i5 11th Gen,78190,Intel Core i5 Processor (11th Gen),8 GB LPDDR4X RAM,64 bit Windows 10 Operating System,1 TB SSD,13.3,4.5,22,3
+Lenovo IdeaPad 3 Core i5 11th Gen,52990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,280,21
+ASUS Zenbook 17 Fold OLED Intel EVO Core i7 12th Gen,329990,Intel Core i7 Processor (12th Gen),16 GB LPDDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,17.3,,,
+ASUS Vivobook 15 Ryzen 3 Dual Core AMD R3,34990,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.4,405,48
+acer Predator Helios 300 Core i9 11th Gen,119990,Intel Core i9 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,4.4,57,7
+Lenovo IdeaPad 3 Core i5 12th Gen,56049,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,247,21
+DELL Core i5 11th Gen,70430,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,,,
+ASUS ExpertBook P2 Core i5 10th Gen,69290,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,DOS Operating System,1 TB HDD,14,,,
+ASUS EeeBook 12 Celeron Dual Core,18990,Intel Celeron Dual Core Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD,11.6,4,20,1
+Lenovo IdeaPad 3 Ryzen 5 Hexa Core 5500U,47039,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,1603,184
+APPLE 2023 MacBook Pro M2 Pro,249900,Apple M2 Pro Processor,16 GB Unified Memory RAM,Mac OS Operating System,1 TB SSD,14,,,
+HP 15s Core i3 11th Gen,39490,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6,4,5,0
+acer Aspire 7 Core i5 12th Gen,64990,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,302,36
+Lenovo Intel Core i3 11th Gen,38290,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,3.9,37,1
+Lenovo IdeaPad Gaming 3 Core i5 12th Gen,84990,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,,,
+Infinix X1 Slim Series Core i3 10th Gen,30990,Intel Core i3 Processor (10th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,256 GB SSD,14,4.3,4379,580
+APPLE MacBook Pro Core i5 8th Gen,163990,Intel Core i5 Processor (8th Gen),8 GB DDR3 RAM,Mac OS Operating System,512 GB SSD,13.3,4.2,107,13
+Lenovo Intel Core i3 11th Gen,38500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,453,38
+acer Aspire 3 Celeron Dual Core,41999,Intel Celeron Dual Core Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,4.5,24,6
+acer Aspire 5 Ryzen 5 Hexa Core AMD Ryzen 5,55990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.4,61,7
+HP HP 250 G7 Core i5 10th Gen,54890,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB HDD|512 GB SSD,15.6,,,
+Lenovo Intel Core i5 11th Gen,52890,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+ASUS ROG Flow Z13 (2022) Core i5 12th Gen,114990,Intel Core i5 Processor (12th Gen),16 GB DDR5 RAM,Windows 11 Operating System,512 GB SSD,13.4,,,
+DELL Inspiron Ryzen 7 Octa Core 5700U,88890,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.5,14,2
+ASUS Vivobook AMD R5 5600H Ryzen 5 Hexa Core 10th Gen,54990,AMD Ryzen 5 Hexa Core Processor (10th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,16,,,
+Lenovo IdeaPad 3 Core i3 11th Gen,38699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,4658,449
+DELL Vostro Core i3 11th Gen,40690,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,14,4.1,9,1
+ASUS (2022) Celeron Dual Core,24290,Intel Celeron Dual Core Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,128 GB SSD,11.6,4.1,197,18
+HP Victus Ryzen 7 Octa Core 6800H,111500,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,16.1,,,
+Lenovo IdeaPad 3 Core i5 11th Gen,52990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,280,21
+ASUS Core i5 12th Gen,74990,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4,4,0
+ASUS Ryzen 5 Dual Core 10th Gen,54990,AMD Ryzen 5 Dual Core Processor (10th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,16,,,
+APPLE 2022 MacBook AIR M2,131990,Apple M2 Processor,8 GB Unified Memory RAM,Mac OS Operating System,512 GB SSD,13.6,,,
+Lenovo IdeaPad 3 Core i5 12th Gen,56049,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,247,21
+DELL Allienware Core i7 12th Gen,209990,Intel Core i7 Processor (12th Gen),32 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,14,,,
+Infinix X1 Slim Series Core i5 10th Gen,37990,Intel Core i5 Processor (10th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.2,713,103
+DELL Ryzen 7 Octa Core 6800H,158990,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,15.6,,,
+Lenovo IdeaPad 3 Ryzen 5 Hexa Core 5500U,47039,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,1603,184
+Lenovo Core i3 10th Gen,37890,Intel Core i3 Processor (10th Gen),8 GB DDR4 RAM,Windows 10 Operating System,256 GB SSD,14,5,4,0
+ASUS Core i5 12th Gen,92990,Intel Core i5 Processor (12th Gen),16 GB DDR5 RAM,Windows 11 Operating System,512 GB SSD,15.6,,,
+ASUS ExpertBook B9 Core i7 10th Gen,233990,Intel Core i7 Processor (10th Gen),16 GB LPDDR3 RAM,64 bit Windows 10 Operating System,2 TB SSD,14,,,
+Lenovo Intel Core i3 11th Gen,38500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,453,38
+DELL G15 Core i7 12th Gen,127490,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,3.8,12,6
+GIGABYTE AERO 5 XE4 Core i7 12th Gen,193990,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,,,
+acer Predator Helios 300 Core i5 7th Gen,129999,Intel Core i5 Processor (7th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|128 GB SSD,15.6,4.5,3221,691
+Lenovo Intel Core i5 11th Gen,52890,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+DELL Inspiron Ryzen 5 Hexa Core 5625U,78061,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,,,
+Lenovo Yoga 7i Ryzen 7 Octa Core R7,98246,AMD Ryzen 7 Octa Core Processor (5th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14,,,
+ASUS ROG Zephyrus G15 (2022) with 90Whr Battery Ryzen 7 Octa Core 6800HS,157990,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,,,
+Lenovo IdeaPad 3 Core i3 11th Gen,38699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,4658,449
+MSI Stealth Core i7 8th Gen,185790,Intel Core i7 Processor (8th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.8,5,1
+DELL Vostro Core i3 11th Gen,41290,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,14.96,4.2,534,59
+DELL Inspiron Ryzen 3 Dual Core 3250U,38690,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6,4.7,6,0
+Lenovo IdeaPad 3 Core i5 11th Gen,52990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,280,21
+Lenovo IdeaPad Gaming 3 Core i5 11th Gen,71990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,Windows 10 Operating System,512 GB SSD,15.6,4.4,395,43
+Lenovo Intel Core i5 10th Gen,72490,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,29,6
+acer aspire 5 gaming Core i5 12th Gen,61999,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,3.7,3,0
+Lenovo IdeaPad 3 Core i5 12th Gen,56049,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,247,21
+ASUS ROG Strix G15 Ryzen 9 Octa Core AMD R9,105990,AMD Ryzen 9 Octa Core Processor,16 GB DDR4 RAM,Windows 10 Operating System,512 GB SSD,15.6,4.4,87,12
+MSI GS66 Core i7 11th Gen,206990,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,15.6,,,
+MSI CreatorPro M16 Core i7 12th Gen,119990,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,16,,,
+Lenovo IdeaPad 3 Ryzen 5 Hexa Core 5500U,47039,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,1603,184
+ASUS ProArt Studiobook 16 OLED (2022) with ASUS Dial Core i7 12th Gen,239990,Intel Core i7 Processor (12th Gen),32 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,16,,,
+Lenovo IdeaPad Gaming 3 Ryzen 5 Hexa Core AMD R5,62990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,43,7
+Lenovo Ryzen 7 Octa Core 6800H,189990,AMD Ryzen 7 Octa Core Processor,32 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,16,,,
+Lenovo Intel Core i3 11th Gen,38500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,453,38
+DELL Inspiron Ryzen 5 Quad Core 3450U,42690,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,15.6,4,318,28
+MSI Katana GF66 Core i5 11th Gen,73990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.5,256,45
+HP Victus Ryzen 5 Hexa Core 6600H,82990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,16.1,,,
+Lenovo Intel Core i5 11th Gen,52890,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+HP Pavilion x360 Core i3 12th Gen,59990,Intel Core i3 Processor (12th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14,,,
+ASUS ASUS TUF Gaming A15 Ryzen 7 Octa Core 6800HS,115990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,Windows 11 Operating System,1 TB SSD,15.6,,,
+MSI Creator 15 Core i7 10th Gen,214990,Intel Core i7 Processor (10th Gen),32 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,15.6,,,
+Lenovo IdeaPad 3 Core i3 11th Gen,38699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,4658,449
+DELL G15 Ryzen 7 Octa Core 5800H,93900,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.4,5,1
+MSI GF63 Thin Core i5 9th Gen,58499,Intel Core i5 Processor (9th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.5,4351,596
+HP Pavilion Ryzen 5 Hexa Core 5500U,50983,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.8,10,0
+Lenovo IdeaPad 3 Core i5 11th Gen,52990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,280,21
+ASUS ProArt Studiobook 16 OLED (2022) with ASUS Dial Core i9 12th Gen,219990,Intel Core i9 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,16,,,
+DELL Vostro Ryzen 5 Quad Core 3500U,47090,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14,4.4,17,2
+ASUS ZenBook 13 Core i7 8th Gen,66990,Intel Core i7 Processor (8th Gen),8 GB LPDDR3 RAM,64 bit Windows 10 Operating System,512 GB SSD,13.3,4.3,40,4
+Lenovo IdeaPad 3 Core i5 12th Gen,56049,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,247,21
+Lenovo Ideapad Slim 3i (2021) Core i3 10th Gen,40200,Intel Core i3 Processor (10th Gen),4 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,15.6,3.9,50,1
+ASUS VivoBook 14 (2022) Core i3 12th Gen,47990,Intel Core i3 Processor (12th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14,4.3,39,9
+acer Aspire 5 Ryzen 7 Octa Core 5700U,59990,AMD Ryzen 7 Octa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,5,3,0
+Lenovo IdeaPad 3 Ryzen 5 Hexa Core 5500U,47039,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,1603,184
+HP Pavilion x360 Core i5 12th Gen,77070,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14,,,
+HP Core i5 11th Gen,51890,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,283,17
+ASUS ExpertBook P1 Core i5 10th Gen,61249,Intel Core i5 Processor (10th Gen),4 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,14,,,
+Lenovo Intel Core i5 11th Gen,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+DELL Inspiron Pentium Quad Core,35500,Intel Pentium Quad Core Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6,4.1,123,18
+HP Ryzen 7 Octa Core 6800H,107690,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,16.1,,,
+Lenovo Ryzen 7 Octa Core 5800H,131990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,,,
+Lenovo V15 G2 Core i3 11th Gen,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.4,53,3
+HP G8 Ryzen 3 Dual Core AMD Ryzen 3 3250U,28490,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14,4.4,17,3
+HP Pavilion Intel Core i5 12th Gen,64990,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4,123,15
+ASUS ROG Core i7 7th Gen,146490,Intel Core i7 Processor (7th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|256 GB SSD,15.6,3,2,1
+DELL Vostro Ryzen 3 Quad Core 5425U,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,,,
+DELL Core i5 12th Gen,60090,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,,,
+Lenovo Ryzen 3 Quad Core 5300U,34990,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,Windows 11 Operating System,256 GB HDD|256 GB SSD,15.6,,,
+Lenovo Core i3 11th Gen,40699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.1,29,2
+ASUS Core i5 10th Gen,71999,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,Windows 11 Operating System,1 TB SSD,15.6,,,
+acer Intel EVO Swift 5 Core i5 11th Gen,69990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.8,5,0
+HP Victus Intel Core i5 11th Gen,62990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,16.1,,,
+DELL Vostro Core i5 11th Gen,63090,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,35,3.9,89,9
+MSI Alpha 15 Ryzen 7 Octa Core 5800H,98990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 10 Operating System,"PCI-e SSD (NVMe) ready,Silver-Lining Print Keyboard,Matrix Display (Extend),Cooler Boost 5,Hi-Res Audio,Nahimic 3,144Hz Panel,Thin Bezel,RGB Gaming Keyboard,Speaker Tuning Engine,MSI Center",15.6,4.5,413,63
+HP Victus Ryzen 7 Octa Core 5800H,107990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,16.1,,,
+DELL Core i3 10th Gen,48999,Intel Core i3 Processor (10th Gen),4 GB DDR4 RAM,Windows 10 Operating System,1 TB HDD|256 GB SSD,15.6,,,
+Lenovo IdeaPad Gaming 3 Core i5 11th Gen,57890,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,3.9,117,15
+DELL Inspiron Core i5 12th Gen,88490,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,16,,,
+HP Ryzen 7 Octa Core 6800H,99850,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,16.1,,,
+DELL Core i3 10th Gen,48999,Intel Core i3 Processor (10th Gen),4 GB DDR4 RAM,Windows 10 Operating System,1 TB HDD|256 GB SSD,15.6,,,
+DELL Inspiron Core i3 11th Gen,40890,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,15.6,4,53,4
+Lenovo Intel Core i5 11th Gen,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+DELL Vostro Core i3 10th Gen,40690,Intel Core i3 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4,212,30
+HP OMEN Core i7 12th Gen,170990,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,16.1,,,
+HP OMEN Core i7 12th Gen,170990,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,16.1,,,
+Lenovo V15 G2 Core i3 11th Gen,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.4,53,3
+DELL Inspiron Core i5 11th Gen,71857,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,,,
+ASUS ExpertBook B9 Core i7 10th Gen,154990,Intel Core i7 Processor (10th Gen),16 GB LPDDR3 RAM,64 bit Windows 10 Operating System,1 TB SSD,14,5,3,0
+acer ConceptD 5 Core i5 8th Gen,100500,Intel Core i5 Processor (8th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,,,
+DELL Vostro Ryzen 3 Quad Core 5425U,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,,,
+DELL Core i5 12th Gen,94075,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,,,
+APPLE 2023 MacBook Pro M2 Pro,249900,Apple M2 Pro Processor,16 GB Unified Memory RAM,Mac OS Operating System,512 GB SSD,16,,,
+ASUS ZenBook Classic Core i5 10th Gen,79990,Intel Core i5 Processor (10th Gen),8 GB LPDDR3 RAM,64 bit Windows 10 Operating System,512 GB SSD,13.3,4.4,11,3
+acer Swift 3 OLED Core i7 12th Gen,115999,Intel Core i7 Processor (12th Gen),16 GB LPDDR5 RAM,Windows 11 Operating System,1 TB SSD,14,,,
+acer Aspire 3 Ryzen 3 Dual Core R33250U,27990,AMD Ryzen 3 Dual Core Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,100,14
+ASUS Ryzen 9 Octa Core 10th Gen,98990,AMD Ryzen 9 Octa Core Processor (10th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,16.6,4.5,6,1
+Infinix INBook X2 Plus Core i5 11th Gen,42990,Intel Core i5 Processor (11th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,47,11
+DELL Inspiron Core i3 10th Gen,44190,Intel Core i3 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14.96,4.3,56,5
+ASUS ZenBook Duo 14 (2021) Touch Panel Core i5 11th Gen,79990,Intel Core i5 Processor (11th Gen),16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,14,5,3,0
+ASUS TUF Gaming A15 (2022) Ryzen 7 Octa Core 6800HS,96990,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,15.6,,,
+DELL Vostro Core i3 10th Gen,42990,Intel Core i3 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14,4.1,105,10
+ASUS ROG Zephyrus S15 Core i7 10th Gen,234990,Intel Core i7 Processor (10th Gen),32 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,15.6,,,
+HP Victus Ryzen 5 Hexa Core 5600H,85990,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,16.1,,,
+ASUS Chromebook Flip Touch Celeron Dual Core,22990,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,Chrome Operating System,512 GB SSD,15.6,4,926,150
+ASUS Zenbook 14 OLED (2022) Intel EVO Core i7 12th Gen,107331,Intel Core i7 Processor (12th Gen),16 GB LPDDR5 RAM,Windows 11 Operating System,512 GB SSD,14,4.6,43,9
+Lenovo Intel Core i5 11th Gen,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+Lenovo Core i3 11th Gen,38990,Intel Core i3 Processor (11th Gen),4 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,15,4.3,164,14
+HP Ryzen 3 Dual Core 3250U,37990,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,3881,400
+ASUS ROG Strix G15 Advantage Edition with 90Whr Battery Ryzen 9 Octa Core 5980HX,150990,AMD Ryzen 9 Octa Core Processor,16 GB DDR4 RAM,Windows 11 Operating System,1 TB SSD,15.6,4.9,8,2
+Lenovo V15 G2 Core i3 11th Gen,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.4,53,3
+Lenovo IdeaPad Gaming 3 Ryzen 7 Octa Core 4800H,76990,AMD Ryzen 7 Octa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.4,145,21
+HP Envy x360 Ryzen 5 Hexa Core 5600U,79000,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,13.3,4.5,13,0
+HP Victus Ryzen 5 Hexa Core 5600H,84198,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,16.1,,,
+DELL Vostro Ryzen 3 Quad Core 5425U,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,,,
+HP Laptop Ryzen 3 Quad Core 5300U,42990,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,,,
+ASUS ROG Flow X13 Ryzen 7 Octa Core 6800HS,177900,AMD Ryzen 7 Octa Core Processor,32 GB LPDDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,13.4,,,
+Lenovo Ideapad Gaming 3 Ryzen 5 Hexa Core 4600H,62490,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|256 GB SSD,15.6,4.5,1763,254
+ASUS Vivobook Flip Core i5 12th Gen,79990,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,3.9,12,1
+ASUS ROG Flow X13 (2022) Ryzen 9 Octa Core 6900HS,151990,AMD Ryzen 9 Octa Core Processor,16 GB LPDDR5 RAM,Windows 11 Operating System,1 TB SSD,13.4,,,
+Infinix INBook X2 Plus Core i3 11th Gen,30990,Intel Core i3 Processor (11th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6,4.2,126,23
+ASUS ROG Flow X13 Ryzen 7 Octa Core AMD R7,147990,AMD Ryzen 7 Octa Core Processor,16 GB LPDDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,13.4,,,
+Lenovo IdeaPad 3 Core i3 11th Gen,37490,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6,4.3,818,95
+Lenovo Core i7 12th Gen,118990,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,16,,,
+HP 14s Intel Core i3 11th Gen,39990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,4.3,2959,316
+ASUS ROG Flow X13 with RTX 3080 eGPU Ryzen 9 Octa Core 5980HS,234990,AMD Ryzen 9 Octa Core Processor,32 GB LPDDR4X RAM,64 bit Windows 10 Operating System,1 TB SSD,13.4,,,
+ASUS ROG Flow X16 (2022) with 90Whr Battery Ryzen 7 Octa Core 6800HS,171990,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,16,,,
+acer Swift X Core i5 11th Gen,94990,Intel Core i5 Processor (11th Gen),16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,16.1,,,
+HP HP Pavilion Ryzen 5 Hexa Core AMD R5,66990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.4,2511,240
+HP 15s Intel Core i3 11th Gen,40788,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.1,145,9
+Lenovo Intel Core i5 11th Gen,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+DELL Core i3 11th Gen,42500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,1 TB HDD,15.6,4.3,7,0
+ASUS TUF GAMING A15 Ryzen 5 Hexa Core 4600H,60990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,,,
+ASUS TUF Gaming F15 Core i5 10th Gen,58990,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.4,502,47
+Lenovo V15 G2 Core i3 11th Gen,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.4,53,3
+acer Predator Helios 300 Core i7 10th Gen,119990,Intel Core i7 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|256 GB SSD,15.6,4.5,2052,318
+Lenovo Core i7 11th Gen,105990,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,,,
+MSI Core i7 13th Gen,184990,Intel Core i7 Processor (13th Gen),16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,17.3,,,
+DELL Vostro Ryzen 3 Quad Core 5425U,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,,,
+Lenovo Legion 5 Pro Core i7 11th Gen,192990,Intel Core i7 Processor (11th Gen),32 GB DDR4 RAM,Windows 11 Operating System,1 TB SSD,16,,,
+HP Ryzen 3 Dual Core 3250U,38999,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6,4.3,3881,400
+acer Predator Helios 300 Core i7 11th Gen,135990,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,15.6,4.3,58,9
+DELL Inspiron Core i5 11th Gen,68490,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,,,
+HP Chromebook Intel Core i7 11th Gen,88390,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,14,4.5,571,73
+DELL Core i7 12th Gen,113104,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,13.3,3.7,3,2
+ASUS ROG Flow X13 Ryzen 7 Octa Core 6800HS,114990,AMD Ryzen 7 Octa Core Processor,16 GB LPDDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,13.4,5,3,0
+HP Pavilion Ryzen 5 Hexa Core AMD R5,56000,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.4,12223,1239
+Lenovo Intel Core i7 12th Gen,149990,Intel Core i7 Processor (12th Gen),8 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,16,,,
+acer Core i7 6th Gen,116640,Intel Core i7 Processor (6th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|128 GB SSD,15.6,,,
+HP Omen Core i5 7th Gen,102551,Intel Core i5 Processor (7th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|128 GB SSD,15.6,,,
+Avita SATUS S111 Celeron Dual Core,16990,Intel Celeron Dual Core Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,128 GB SSD,14.1,3.8,689,92
+APPLE 2022 MacBook AIR M2,131990,Apple M2 Processor,8 GB Unified Memory RAM,Mac OS Operating System,512 GB SSD,13.6,,,
+HP 14s Ryzen 3 Quad Core,44900,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14,4.5,872,177
+HP OMEN Ryzen 7 Octa Core AMD R7,98990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,16.1,4.9,11,0
+Lenovo Intel Core i5 11th Gen,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+ASUS Vivobook 15 Core i5 11th Gen,50990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,,,
+Infinix X1 Slim Series Core i7 10th Gen,46990,Intel Core i7 Processor (10th Gen),16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,14,3.7,114,27
+MSI Core i7 13th Gen,147990,Intel Core i7 Processor (13th Gen),16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,17.3,,,
+Lenovo V15 G2 Core i3 11th Gen,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.4,53,3
+DELL Core i3 11th Gen,45890,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,1 TB HDD|256 GB SSD,15,,,
+Lenovo IdeaPad Gaming Ryzen 5 Hexa Core 4600H,60490,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.5,191,20
+HP Victus Ryzen 5 Hexa Core 5600H,69990,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.3,,,
+DELL Vostro Ryzen 3 Quad Core 5425U,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,,,
+ASUS ExpertBook P1 Core i5 10th Gen,62490,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,14,3.9,10,0
+Lenovo Athlon Dual Core 3050U,20990,AMD Athlon Dual Core Processor,4 GB DDR4 RAM,Windows 10 Operating System,256 GB SSD,14,4.1,14,1
+ASUS VivoBook Ultra 14 (2022) Core i3 11th Gen,41990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.4,2836,401
+MSI Core i7 11th Gen,76490,Intel Core i7 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.4,1006,101
+ASUS ROG Flow Z13 (2022) Core i9 12th Gen,191990,Intel Core i9 Processor (12th Gen),16 GB LPDDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,13.4,,,
+DELL Core i3 10th Gen,42890,Intel Core i3 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.2,913,107
+DELL Inspiron Ryzen 5 Quad Core 3450U,49890,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,3.9,125,13
+HP Pavilion Intel Core i5 11th Gen,69490,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,3.8,21,4
+MSI Crosshair 15 Core i7 12th Gen,110990,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,4.4,40,7
+Lenovo IdeaPad Gaming 3 Core i5 10th Gen,62990,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.3,740,70
+DELL Core i3 12th Gen,64490,Intel Core i3 Processor (12th Gen),8 GB DDR5 RAM,Windows 11 Operating System,512 GB SSD,14,,,
+ASUS Core i3 7th Gen,28990,Intel Core i3 Processor (7th Gen),4 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,15.6,4,5344,705
+DELL Inspiron Core i3 10th Gen,42990,Intel Core i3 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,15.6,4.1,238,27
+DELL Inspiron Core i5 12th Gen,91958,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14,,,
+MSI Prestige 14 Intel EVO Core i5 11th Gen,74990,Intel Core i5 Processor (11th Gen),16 GB LPDDR4X RAM,64 bit Windows 10 Operating System,PCI-e Gen4 SSD?SHIFT?Matrix Display (Extend)?Cooler Boost 3?Thunderbolt 4?Finger Print Security?True Color 2.0?Hi-Res Audio?Nahimic 3? 4-Sided Thin bezel?MSI Center?Silky Smooth Touchpad?Military-Grade Durability,14,4.5,11,1
+Lenovo Intel Core i5 11th Gen,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+acer Nitro 5 Ryzen 5 Hexa Core AMD R5,59990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.5,313,31
+ASUS ZenBook Pro 15 Core i9 8th Gen,209690,Intel Core i9 Processor (8th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,15.6,5,4,0
+MSI Prestige 14 Core i7 10th Gen,74990,Intel Core i7 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14,4,97,12
+Lenovo V15 G2 Core i3 11th Gen,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.4,53,3
+HP Victus Core i7 12th Gen,88570,Intel Core i7 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,,,
+Infinix INBook X2 Plus Core i5 11th Gen,42990,Intel Core i5 Processor (11th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,47,11
+HP HP Envy Ryzen 7 Octa Core 4700U,81600,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,13.3,4.3,8,0
+DELL Vostro Ryzen 3 Quad Core 5425U,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,,,
+ASUS TUF Gaming F15 (2022) Core i7 12th Gen,122990,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,4.1,32,3
+Lenovo Ideapad AMD Ryzen 5 Hexa Core 5500U,47990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,17,4
+ASUS Core i3 11th Gen,35990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,15.6,,,
+ASUS Vivobook 14 Core i3 10th Gen,30650,Intel Core i3 Processor (10th Gen),4 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,14.1,3.5,74,12
+HP 15s Ryzen 5 Quad Core 3500U,52575,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.4,845,117
+Lenovo Core i3 10th Gen,37890,Intel Core i3 Processor (10th Gen),4 GB DDR4 RAM,Windows 10 Operating System,256 GB SSD,15.6,5,1,1
+DELL Core i3 11th Gen,45990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,,,
+HP Core i3 11th Gen,39890,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,3.7,6,0
+Infinix X1 Slim Series Core i5 10th Gen,37990,Intel Core i5 Processor (10th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.2,713,103
+ASUS VivoBook 14 Core i3 7th Gen,33990,Intel Core i3 Processor (7th Gen),4 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,14,4.3,5546,790
+Avita PURA APU Dual Core A6 9220e,24490,AMD APU Dual Core A6 Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,14,3.6,1857,268
+HP 15s Intel Core i5 12th Gen,63290,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.1,125,9
+HP 15s Intel Core i5 12th Gen,63290,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.1,125,9
+HP 15s Core i5 11th Gen,54960,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.4,849,80
+Lenovo IdeaPad Flex 5 Ryzen 5 Hexa Core 5500U,61200,AMD Ryzen 5 Hexa Core Processor,16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,14,,,
+Lenovo Intel Core i5 11th Gen,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+HP Core i3 11th Gen,39890,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,3.7,6,0
+Avita PURA APU Dual Core A6 9220e,24490,AMD APU Dual Core A6 Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,14,3.6,1857,268
+DELL Vostro Core i5 12th Gen,71490,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,16,,,
+Lenovo V15 G2 Core i3 11th Gen,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.4,53,3
+acer Nitro 5 Ryzen 5 Hexa Core AMD R5,67990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,222,25
+ASUS ZenBook S Core i7 8th Gen,99990,Intel Core i7 Processor (8th Gen),16 GB DDR3 RAM,64 bit Windows 10 Operating System,512 GB SSD,13.3,4.3,30,7
+ASUS Core i7 12th Gen,104405,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,15.6,,,
+DELL Vostro Ryzen 3 Quad Core 5425U,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,,,
+ASUS TUF Gaming F17 (2022) with 90Whr Battery Core i5 12th Gen,94990,Intel Core i5 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,17.3,4.4,105,18
+HP Core i3 11th Gen,43390,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14,,,
+DELL Core i5 12th Gen,99990,Intel Core i5 Processor (12th Gen),16 GB DDR5 RAM,Windows 11 Operating System,512 GB SSD,13.4,,,
+HP Ryzen 9 Octa Core 6900HX,160180,AMD Ryzen 9 Octa Core Processor,32 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,16.1,,,
+ASUS VivoBook 15 Ryzen 3 Dual Core AMD R3,26990,AMD Ryzen 3 Dual Core Processor,4 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,15.6,4.3,1654,225
+ASUS ROG Zephyrus M16 (2022) with 90Whr Battery Core i7 12th Gen,174990,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,Windows 11 Operating System,512 GB SSD,16,,,
+HP 15s Core i3 11th Gen,41960,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.3,545,68
+acer Nitro 5 Ryzen 5 Hexa Core 5600H,68990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,Windows 11 Operating System,1 TB HDD|512 GB SSD,15.6,4.3,222,25
+ASUS TUF Dash F15 Core i7 12th Gen,149610,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,4.8,5,1
+ASUS VivoBook K15 OLED (2022) Core i5 11th Gen,63990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|256 GB SSD,15.6,4.3,652,85
+Lenovo IdeaPad 3 Dual Core 3020e,27990,AMD Dual Core Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,4.1,114,15
+GIGABYTE G5 GD Core i5 11th Gen,68990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.6,8,3
+Lenovo Ideapad Gaming 3 Ryzen 5 Hexa Core 4600H,60490,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|256 GB SSD,15.6,4.5,912,122
+acer Swift 5 Core i5 8th Gen,69351,Intel Core i5 Processor (8th Gen),8 GB DDR3 RAM,64 bit Windows 10 Operating System,512 GB SSD,14,4.2,6,3
+ASUS ROG Flow X16 (2022) with 90Whr Battery Ryzen 9 Octa Core 6900HS,261990,AMD Ryzen 9 Octa Core Processor,32 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,16,,,
+Lenovo Intel Core i3 11th Gen,38500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,453,38
+HP Pavilion Gaming Core i7 11th Gen,79000,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.6,10,1
+Lenovo IdeaPad 3 Dual Core 3020e,27990,AMD Dual Core Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,4.1,114,15
+HP Pavilion Gaming Ryzen 5 Hexa Core AMD R5,64000,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,3.9,70,7
+Lenovo Intel Core i5 11th Gen,52890,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+HP Core i3 11th Gen,40699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,,,
+ASUS Core i9 10th Gen,269990,Intel Core i9 Processor (10th Gen),32 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,15.6,4.8,8,1
+DELL Core i5 12th Gen,99990,Intel Core i5 Processor (12th Gen),16 GB DDR5 RAM,Windows 11 Operating System,512 GB SSD,13.4,,,
+Lenovo IdeaPad 3 Core i3 11th Gen,38699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,4658,449
+Lenovo IdeaPad 3 Celeron Dual Core 4th Gen,25990,Intel Celeron Dual Core Processor (4th Gen),4 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,14,4.1,944,93
+HP Pavilion Ryzen 5 Hexa Core 5500U,50600,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.4,210,30
+HP OMEN Ryzen 7 Octa Core AMD R7,108290,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,16.1,4.3,39,6
+Lenovo IdeaPad 3 Core i5 11th Gen,52990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,280,21
+Lenovo IdeaPad Core i3 11th Gen,37990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit DOS Operating System,256 GB SSD,15.6,3.7,128,16
+ASUS Vivobook 14 Core i3 11th Gen,38990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14.1,4.3,25,3
+HP 255 G8 Ryzen 3 Dual Core AMD Ryzen3 3250,35960,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.5,4,0
+Lenovo IdeaPad 3 Core i5 12th Gen,56049,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,247,21
+HP Pavilion Gaming Ryzen 5 Hexa Core 4600H,80000,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|256 GB SSD,15.6,4.6,35,6
+ASUS Core i3 11th Gen,30990,Intel Core i3 Processor (11th Gen),4 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,4,106,13
+ASUS VivoBook Ultra K15 OLED Core i3 11th Gen,45990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.4,494,72
+Lenovo IdeaPad 3 Ryzen 5 Hexa Core 5500U,47039,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,1603,184
+DELL Inspiron Ryzen 5 Hexa Core 5625U,50890,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,,,
+DELL Inspiron Ryzen 7 Octa Core 5700U,85990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14,4.2,34,5
+HP Omen Ryzen 7 Octa Core 6800H,122560,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,Windows 11 Operating System,512 GB SSD,16.2,,,
+Lenovo Intel Core i3 11th Gen,38500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,453,38
+ASUS TUF Gaming F17 Core i5 10th Gen,73990,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,17.3,4.8,12,0
+HP Victus Ryzen 7 Octa Core 5800H,121677,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,16.1,,,
+Lenovo Core i3 11th Gen,39990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.1,29,2
+Lenovo Intel Core i5 11th Gen,52890,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+DELL Vostro Ryzen 5 Hexa Core 5625U,63331,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,16,,,
+DELL Inspiron Core i3 11th Gen,43490,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,15.6,4,308,42
+ASUS Chromebook Celeron Dual Core,25990,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,Chrome Operating System,1 TB HDD,14,4.1,209,29
+Lenovo IdeaPad 3 Core i3 11th Gen,38699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,4658,449
+HP Ryzen 7 Octa Core 6800H,136000,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,16.1,,,
+ASUS Pro P5 Core i5 8th Gen,81990,Intel Core i5 Processor (8th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,14,,,
+acer Spin 7 Core i7 7th Gen,119990,Intel Core i7 Processor (7th Gen),8 GB DDR3 RAM,64 bit Windows 10 Operating System,256 GB SSD,14,4,1,1
+Lenovo IdeaPad 3 Core i5 11th Gen,52990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,280,21
+ASUS Vivobook Pro 16X OLED (2021) Ryzen 9 Octa Core 5900H 9th Gen,130500,AMD Ryzen 9 Octa Core Processor (9th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,16,,,
+Lenovo Ideapad 720S Core i7 8th Gen,86000,Intel Core i7 Processor (8th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,13.3,,,
+ASUS Ryzen 7 Octa Core 5800U,79990,AMD Ryzen 7 Octa Core Processor,16 GB LPDDR4X RAM,64 bit Windows 10 Operating System,1 TB SSD,13.3,3,2,1
+Lenovo IdeaPad 3 Core i5 12th Gen,56049,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,247,21
+MSI GL Core i7 7th Gen,59990,Intel Core i7 Processor (7th Gen),8 GB DDR4 RAM,DOS Operating System,1 TB HDD,15.6,3.5,6,1
+Lenovo Intel Core i7 12th Gen,119990,Intel Core i7 Processor (12th Gen),16 GB LPDDR5 RAM,Windows 11 Operating System,512 GB SSD,14,,,
+DELL G15 Core i5 12th Gen,84990,Intel Core i5 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.1,35,5
+Lenovo IdeaPad 3 Ryzen 5 Hexa Core 5500U,47039,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,1603,184
+ASUS ROG Zephyrus G15 (2022) Ryzen 7 Octa Core 6800HS,189990,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,15.6,,,
+Lenovo Ideapad 720S Core i5 8th Gen,74990,Intel Core i5 Processor (8th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,13.3,3.3,3,1
+HP Pavilion Gaming Core i5 11th Gen,68690,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|256 GB SSD,15.6,4.4,479,57
+Lenovo Intel Core i5 11th Gen,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+HP Pavilion x360 Core i7 12th Gen,92070,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14,,,
+DELL Vostro Ryzen 5 Hexa Core 5625U,57890,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,,,
+MSI GP76 Core i7 11th Gen,180990,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,17.3,4.5,27,6
+Lenovo V15 G2 Core i3 11th Gen,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.4,53,3
+HP Core i5 12th Gen,62990,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14,,,
+HP Spectre x360 Core i5 8th Gen,136590,Intel Core i5 Processor (8th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,13.3,,,
+HP Core i5 12th Gen,73070,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,,,
+DELL Vostro Ryzen 3 Quad Core 5425U,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,,,
+ASUS Core i9 11th Gen,88990,Intel Core i9 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,,,
+HP 15s Core i3 10th Gen,40250,Intel Core i3 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,15.6,4.1,1147,119
+DELL Core i5 11th Gen,61890,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,3.5,6,1
+HP Pavilion Core i5 11th Gen,62180,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,,,
+HP Intel Core i5 10th Gen,97500,Intel Core i5 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,3.7,3,0
+ASUS ZenBook 13 Core i5 8th Gen,74490,Intel Core i5 Processor (8th Gen),8 GB LPDDR3 RAM,64 bit Windows 10 Operating System,512 GB SSD,13.3,4.2,50,4
+ASUS ROG Flow X13 Ryzen 7 Octa Core 6800HS,167990,AMD Ryzen 7 Octa Core Processor,32 GB LPDDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,13.4,,,
+Lenovo IdeaPad Gaming 3 Ryzen 5 Hexa Core 5600H,73990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4,15,5
+ASUS Core i7 12th Gen,104990,Intel Core i7 Processor (12th Gen),16 GB LPDDR5 RAM,Windows 11 Operating System,512 GB SSD,14,,,
+MSI GS Core i7 8th Gen,149990,Intel Core i7 Processor (8th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.1,10,3
+DELL Inspiron 3000 Core i3 11th Gen,42800,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,,,
+ASUS TUF Gaming A17 Ryzen 7 Octa Core AMD R7,85990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,17.3,4.5,1468,194
+HP Victus Ryzen 5 Hexa Core 5600H,59000,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,16.1,4.2,9,2
+HP Intel Core i5 10th Gen,97500,Intel Core i5 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,3.7,3,0
+Lenovo IdeaPad Gaming 3 Ryzen 5 Hexa Core 5600H,73990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4,15,5
+Lenovo Intel Core i3 11th Gen,38500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,453,38
+DELL Core i5 11th Gen,62779,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,,,
+DELL Inspiron 3511 Core i3 11th Gen,46490,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|256 GB SSD,15.6,,,
+APPLE 2020 Macbook Pro M1,129990,Apple M1 Processor,8 GB DDR4 RAM,Mac OS Operating System,512 GB SSD,13.3,4.5,481,50
+Lenovo Intel Core i5 11th Gen,52890,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+Infinix INBook X2 Plus Core i7 11th Gen,52990,Intel Core i7 Processor (11th Gen),16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,26,6
+HP Pavilion Gaming Ryzen 5 Hexa Core 5600H,72990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,,,
+ASUS ROG Zephyrus G14 Ryzen 7 Octa Core 6800HS,176990,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,14,,,
+Lenovo IdeaPad 3 Core i3 11th Gen,38699,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,4658,449
+ASUS TUF Gaming F15 Core i5 10th Gen,59990,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.5,5145,564
+DELL Core i3 11th Gen,44990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,,,
+HP 15s Intel Core i5 12th Gen,61000,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,3.8,45,6
+Lenovo IdeaPad 3 Core i5 11th Gen,52990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,280,21
+HP Ryzen 3 Dual Core 3250U,31490,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6,3.7,36,3
+MICROSOFT Surface Laptop 3 Ryzen 5 Quad Core 3580U,99990,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,128 GB SSD,15,3.8,9,0
+ASUS ROG Zephyrus G15 (2022) with 90Whr Battery Ryzen 9 Octa Core 6900HS,166990,AMD Ryzen 9 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,,,
+Lenovo IdeaPad 3 Core i5 12th Gen,56049,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.2,247,21
+ASUS Pentium Quad Core,28960,Intel Pentium Quad Core Processor,8 GB DDR4 RAM,Windows 11 Operating System,256 GB SSD,14,,,
+GIGABYTE G5 KE,94990,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,,,
+HP Victus Ryzen 7 Octa Core 6800H,94990,AMD Ryzen 7 Octa Core Processor,8 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,16.1,,,
+Lenovo IdeaPad 3 Ryzen 5 Hexa Core 5500U,47039,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.3,1603,184
+MSI GF63 Thin Core i5 9th Gen,59990,Intel Core i5 Processor (9th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.5,1197,151
+DELL Core i5 11th Gen,62779,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,,,
+ASUS Chromebook Flip Touch Celeron Dual Core,22990,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,Chrome Operating System,512 GB SSD,11.6,4,1853,287
+Lenovo Intel Core i5 11th Gen,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+ASUS Core i3 11th Gen,42550,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,Windows 11 Operating System,256 GB SSD,15.6,,,
+Infinix INBook Y1 Plus Intel Core i3 10th Gen,29990,Intel Core i3 Processor (10th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6,,,
+acer Nitro 5 Core i5 12th Gen,85499,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,3.5,4,1
+Lenovo V15 G2 Core i3 11th Gen,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.4,53,3
+DELL Ryzen 5 Hexa Core,67990,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,16,,,
+Lenovo Legion 5 Pro Core i7 11th Gen,152124,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,16,4.6,49,3
+LG Gram Core i5 12th Gen,89990,Intel Core i5 Processor (12th Gen),8 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,,,
+DELL Vostro Ryzen 3 Quad Core 5425U,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,,,
+DELL G7 Core i9 10th Gen,206490,Intel Core i9 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,15.6,4.3,22,3
+Lenovo IdeaPad Flex 3 Chromebook Celeron Dual Core,28490,Intel Celeron Dual Core Processor,4 GB LPDDR4X RAM,64 bit Chrome Operating System,1 TB SSD,11.6,3.6,153,22
+DELL Vostro 3000 Core i5 8th Gen,45126,Intel Core i5 Processor (8th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,14,4,1371,177
+HP Spectre Folio Core i7 10th Gen,239759,Intel Core i7 Processor (10th Gen),16 GB LPDDR3 RAM,64 bit Windows 10 Operating System,512 GB SSD,13.3,,,
+ASUS TUF Gaming F15 Core i9 11th Gen,144990,Intel Core i9 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,15.6,4.4,9,3
+ASUS Vivobook Gaming Core i7 10th Gen,65990,Intel Core i7 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.3,76,7
+Infinix INBook Y1 Plus Intel Core i3 10th Gen,29990,Intel Core i3 Processor (10th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6,,,
+ASUS Ryzen 5 Hexa Core 10th Gen,72990,AMD Ryzen 5 Hexa Core Processor (10th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14,,,
+DELL Inspiron Ryzen 5 Hexa Core 5500U,66490,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14,4.4,293,39
+DELL Vostro Core i3 11th Gen,43090,Intel Core i3 Processor (11th Gen),4 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,35,4.2,33,7
+DELL Ryzen 3 Dual Core 3rd Gen,43490,AMD Ryzen 3 Dual Core Processor (3rd Gen),8 GB DDR4 RAM,Windows 10 Operating System,256 GB SSD,15.6,,,
+Lenovo Intel Core i7 12th Gen,181890,Intel Core i7 Processor (12th Gen),16 GB LPDDR5 RAM,Windows 11 Operating System,1 TB SSD,13.3,,,
+Lenovo IdeaPad 3 Core i3 10th Gen,33490,Intel Core i3 Processor (10th Gen),8 GB DDR4 RAM,Windows 11 Operating System,256 GB SSD,15.6,3.6,22,4
+acer Aspire 5 Core i5 11th Gen,47130,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,15.6,4,566,61
+HP 250 G8 Core i3 11th Gen,39999,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,DOS Operating System,512 GB SSD,15.6,4,52,8
+Lenovo Intel Core i5 11th Gen,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+ASUS ROG Zephyrus G14 Ryzen 7 Octa Core Ryzen 7,76990,AMD Ryzen 7 Octa Core Processor (4th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,14,,,
+DELL Core i7 11th Gen,99900,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.5,28,3
+MSI WF65 Core i7 10th Gen,160990,Intel Core i7 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|256 GB SSD,15.6,,,
+Lenovo V15 G2 Core i3 11th Gen,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.4,53,3
+ASUS Vivobook 11 Celeron Dual Core,24990,Intel Celeron Dual Core Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,11.6,,,
+Lenovo Intel Core i5 11th Gen,68290,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.1,8,0
+Lenovo Core i3 11th Gen,36000,Intel Core i3 Processor (11th Gen),4 GB DDR4 RAM,DOS Operating System,1 TB HDD,15.6,,,
+DELL Vostro Ryzen 3 Quad Core 5425U,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,,,
+DELL Core i5 5th Gen,68990,Intel Core i5 Processor (5th Gen),8 GB DDR3 RAM,64 bit Windows 10 Operating System,1 TB HDD,15.6,1.6,23,4
+DELL 7000 Series Core i7 12th Gen,105890,Intel Core i7 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.8,4,0
+ASUS VivoBook 14 Core i5 8th Gen,54990,Intel Core i5 Processor (8th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14,4.4,2298,307
+HP 430 G8 Core i5 11th Gen,66666,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,Windows 10 Operating System,512 GB SSD,13.3,,,
+ASUS TUF GAMING A17 Ryzen 7 Octa Core 4800H,72990,AMD Ryzen 7 Octa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,17.3,,,
+Lenovo IdeaPad Ryzen 5 Hexa Core 5500U,57990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.2,116,16
+ASUS ROG Flow X16 (2022) with 90Whr Battery Ryzen 7 Octa Core 6800HS,187990,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,16,,,
+DELL Core i5 12th Gen,66490,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,,,
+MSI GF63 Thin Core i5 10th Gen,54450,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,15.6,4.1,1235,159
+DELL Inspiron Core i3 12th Gen,63308,Intel Core i3 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,,,
+ASUS ROG Strix G15 (2022) Ryzen 7 Octa Core AMD R7,107990,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,15.6,4,17,4
+RedmiBook 15 Core i3 11th Gen,44990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,Windows 10 Operating System,512 GB SSD,15.6,4.2,4443,518
+HP Ryzen 5 Hexa Core,76999,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,,,
+Lenovo Ideapad 520 Core i5 8th Gen,64821,Intel Core i5 Processor (8th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,2 TB HDD,15.6,3.3,4,0
+Lenovo Core i7 8th Gen,244801,Intel Core i7 Processor (8th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14,,,
+Lenovo Intel Core i5 11th Gen,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+HP Spectre x360 Core i7 10th Gen,163990,Intel Core i7 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,13.3,3.3,3,1
+DELL Core i5 11th Gen,68990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.1,187,16
+lenovo Yoga 7 Core i7 11th Gen Intel EVO,105990,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14,4.7,86,14
+Lenovo V15 G2 Core i3 11th Gen,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.4,53,3
+acer Aspire 3 Pentium Quad Core,35891,Intel Pentium Quad Core Processor,4 GB DDR4 RAM,Windows 11 Operating System,256 GB SSD,14,,,
+ASUS ROG Zephyrus G15 (2022) with 90Whr Battery Ryzen 9 Octa Core 6900HS,161990,AMD Ryzen 9 Octa Core Processor,16 GB DDR5 RAM,Windows 11 Operating System,1 TB SSD,15.6,,,
+DELL 5000 Core i5 7th Gen,76990,Intel Core i5 Processor (7th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,15.6,4.4,295,71
+DELL Vostro Ryzen 3 Quad Core 5425U,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,,,
+Lenovo B50,52490,Intel Core i5 Processor (4th Gen),8 GB DDR3 RAM,64 bit Windows 8 Operating System,1 TB HDD,15.6,3.8,78,17
+DELL Core i5 11th Gen,59490,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,,,
+LG Gram Core i5 12th Gen,101299,Intel Core i5 Processor (12th Gen),8 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,17,,,
+HP OMEN Core i7 11th Gen,158000,Intel Core i7 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,16.1,,,
+MSI GF63 Thin Core i7 9th Gen,66990,Intel Core i7 Processor (9th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.5,1667,232
+DELL Inspiron Core i5 11th Gen,55190,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4,3,0
+ASUS ROG Zephyrus G15 Ryzen 9 Octa Core 6900HS,189990,AMD Ryzen 9 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,,,
+Vaio SE Series Core i5 8th Gen,62890,Intel Core i5 Processor (8th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14,3.8,84,13
+acer Extensa Pentium Quad Core,24800,Intel Pentium Quad Core Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6,4.4,12,3
+Ultimus S152 Celeron Dual Core,23990,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,Windows 11 Operating System,256 GB SSD,15.6,,,
+MSI Modern 14 Core i7 11th Gen,80590,Intel Core i7 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14,4.6,21,3
+HP Pavilion Ryzen 5 Hexa Core 5625U,63490,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.1,70,7
+DELL G15 Core i5 10th Gen,73990,Intel Core i5 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.4,38,6
+ASUS Core i5 10th Gen,44990,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14,4.4,21,2
+acer Aspire 5 Core i5 8th Gen,59990,Intel Core i5 Processor (8th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,15.6,4,121,27
+Lenovo Intel Core i5 11th Gen,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+DELL Inspiron 3501 Core i3 10th Gen,39690,Intel Core i3 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,14.96,4.3,4,0
+DELL Core i5 12th Gen,65990,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,16,,,
+DELL G15 Core i7 12th Gen,149990,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,4,11,0
+Lenovo V15 G2 Core i3 11th Gen,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.4,53,3
+Lenovo Core i7 10th Gen,138550,Intel Core i7 Processor (10th Gen),16 GB DDR4 RAM,Windows 10 Operating System,512 GB SSD,12,,,
+ASUS TUF Gaming F15 Core i5 10th Gen,64990,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.5,5145,564
+HP Chromebook x360 Intel Celeron Quad Core,27990,Intel Celeron Quad Core Processor,4 GB LPDDR4 RAM,64 bit Chrome Operating System,512 GB SSD,14,3.8,26,3
+DELL Vostro Ryzen 3 Quad Core 5425U,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,,,
+Lenovo Core i7 9th Gen,231400,Intel Core i7 Processor (9th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,15.6,,,
+acer Aspire 5 Gaming Core i5 12th Gen,65200,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.8,4,0
+HP Core i3 10th Gen,39643,Intel Core i3 Processor (10th Gen),4 GB DDR4 RAM,Windows 10 Operating System,1 TB HDD,15.6,3.9,47,4
+ASUS Vivobook Core i3 11th Gen,34990,Intel Core i3 Processor (11th Gen),4 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,14,4.5,79,10
+Lenovo ThinkPad Core i5 10th Gen,155411,Intel Core i5 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB HDD|512 GB SSD,14,,,
+ASUS EeeBook 12 Celeron Dual Core 4th Gen,20990,Intel Celeron Dual Core Processor (4th Gen),4 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB HDD|512 GB SSD,11.6,3.9,199,20
+HP Core i3 11th Gen,43500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4,4,0
+Lenovo Ideapad 330s Core i5 8th Gen,56990,Intel Core i5 Processor (8th Gen),4 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,15.6,4,21,5
+DELL Inspiron 3510 Pentium Quad Core 11th Gen,35500,Intel Pentium Quad Core Processor (11th Gen),4 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,15.6,,,
+HP Ryzen 3 Dual Core,36600,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,Windows 11 Operating System,256 GB HDD,15.6,4.7,3,0
+HP 15s Ryzen 3 Quad Core 5300U,40499,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.3,274,42
+HP Pavilion Ryzen 5 Hexa Core 5500U,56900,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.1,27,2
+Lenovo Legion 5 Pro Ryzen 7 Octa Core Ryzen™ 7 5800H,179999,AMD Ryzen 7 Octa Core Processor,32 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,16,,,
+Infinix INBook Y1 Plus Intel Core i3 10th Gen,32990,Intel Core i3 Processor (10th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,,,
+acer Nitro 5 Spin Core i5 8th Gen,79258,Intel Core i5 Processor (8th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,15.6,4,163,58
+Lenovo Intel Core i5 11th Gen,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+DELL GAMING G5 SERIES Core i5 10th Gen,69890,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.2,6,0
+ASUS ExpertBook B9 Core i5 10th Gen,132790,Intel Core i5 Processor (10th Gen),8 GB LPDDR3 RAM,64 bit Windows 10 Operating System,512 GB SSD,14,,,
+ASUS ASUS TUF Dash Series Core i5 11th Gen,88990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,,,
+Lenovo V15 G2 Core i3 11th Gen,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.4,53,3
+ASUS Pro P5 Core i5 8th Gen,85990,Intel Core i5 Processor (8th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,14,,,
+ASUS ExpertBook P2 Core i7 10th Gen,93990,Intel Core i7 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,14,,,
+Lenovo ThinkPad Core i7 10th Gen,174527,Intel Core i7 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,13.3,,,
+DELL Vostro Ryzen 3 Quad Core 5425U,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,,,
+HP Intel Core i5 10th Gen,127000,Intel Core i5 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,13.3,5,2,1
+Lenovo Core i7 10th Gen,174250,Intel Core i7 Processor (10th Gen),16 GB LPDDR3 RAM,64 bit Windows 10 Operating System,512 GB SSD,14,,,
+acer Aspire 7 Core i5 9th Gen,57090,Intel Core i5 Processor (9th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.4,2952,364
+Infinix INBook Y1 Plus Intel Core i3 10th Gen,32990,Intel Core i3 Processor (10th Gen),8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,,,
+HP Ryzen 5 Hexa Core 5500U,50490,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4.3,569,53
+ASUS VivoBook S14 Core i7 8th Gen,67990,Intel Core i7 Processor (8th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD|256 GB SSD,14,4.4,994,172
+ASUS ExpertBook B9 Intel EVO Core i7 10th Gen,165990,Intel Core i7 Processor (10th Gen),16 GB LPDDR3 RAM,64 bit Windows 10 Operating System,1 TB SSD,14,,,
+HP Victus Ryzen 7 Octa Core 5800H,82990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,,,
+acer Swift 5 Core i5 8th Gen,81998,Intel Core i5 Processor (8th Gen),8 GB DDR3 RAM,64 bit Windows 10 Operating System,256 GB SSD,14,4,15,3
+ASUS ROG Strix G15 (2022) with 90Whr Battery Ryzen 9 Octa Core 6900HX,187990,AMD Ryzen 9 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,15.6,3.7,6,1
+ASUS Vivobook 16X Ryzen 7 Octa Core AMD Ryzen 7 5800H,68180,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,16,,,
+MSI Modern 14 Ryzen 5 Hexa Core 5500U,45990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4.4,3189,430
+ASUS TUF GAMING A15 Ryzen 7 Octa Core 4800H,88990,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.7,3,0
+HP Pavilion Intel Core i5 11th Gen,66890,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,4.1,41,2
+Nokia PureBook S14 Core i5 11th Gen,47990,Intel Core i5 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,14,4,94,20
+Lenovo Intel Core i5 11th Gen,62990,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,4.5,14,1
+Ultimus S151 Celeron Dual Core,19990,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,Windows 11 Operating System,128 GB SSD,14.1,,,
+Lenovo IdeaPad 3 Chromebook Celeron Dual Core,16990,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,Chrome Operating System,128 GB SSD,11.6,3.5,1386,164
+MSI Raider GE67 HX Core i9 12th Gen,419990,Intel Core i9 Processor (12th Gen),32 GB DDR5 RAM,64 bit Windows 11 Operating System,2 TB SSD,15.6,,,
+Lenovo V15 G2 Core i3 11th Gen,37500,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4.4,53,3
+HP Pavilion x360 Core i5 12th Gen,76990,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14,,,
+HP Ryzen 3 Dual Core,27990,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,Windows 11 Operating System,256 GB SSD,15.6,3.8,40,3
+Vaio E Series Ryzen 5 Quad Core 3500U,41990,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,15.6,4,706,142
+DELL Vostro Ryzen 3 Quad Core 5425U,36890,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,14,,,
+HP Envy x360 Creator OLED Intel Evo Core i5 12th Gen,99999,Intel Core i5 Processor (12th Gen),16 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,15.6,,,
+MSI Core i5 12th Gen,73490,Intel Core i5 Processor (12th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,3.6,57,11
+Avita Liber Core i7 10th Gen,51990,Intel Core i7 Processor (10th Gen),16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,14,3.8,318,59
+MSI Vector GP66 Core i7 12th Gen,205000,Intel Core i7 Processor (12th Gen),16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,17.3,,,
+Infinix X1 Slim Series Core i7 10th Gen,46990,Intel Core i7 Processor (10th Gen),16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,14,3.7,114,27
+DELL Core i5 11th Gen,67500,Intel Core i5 Processor (11th Gen),16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,15.6,,,
+ASUS Chromebook Celeron Dual Core,21990,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,Chrome Operating System,512 GB SSD,14,3.8,1135,167
+ASUS VivoBook 15 Core i3 10th Gen,37990,Intel Core i3 Processor (10th Gen),8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,15.6,4,1907,227
+HP Chromebook MediaTek Kompanio 500,22670,MediaTek MediaTek Kompanio 500 Processor,4 GB LPDDR4X RAM,Chrome Operating System,1 TB HDD,11.6,3.8,5991,687
+ASUS Ryzen 5 Hexa Core,54990,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,Windows 11 Operating System,512 GB SSD,14,4.5,22,5
+DELL Inspiron Core i3 11th Gen,40990,Intel Core i3 Processor (11th Gen),8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD|256 GB SSD,15.6,4,801,104
+ASUS Celeron Dual Core 10th Gen,24540,Intel Celeron Dual Core Processor (10th Gen),4 GB DDR4 RAM,Windows 11 Operating System,256 GB SSD,14,,,
