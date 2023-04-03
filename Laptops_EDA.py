@@ -88,8 +88,19 @@ if uploaded_file is not None:
         ax.set_xticklabels(ax.get_xticklabels(), rotation=90)
         ax.set_title('Distribution of Laptop Prices based on Operating System')
         ax.set_xlabel('Operating System')
-        ax.set_ylabel('Price (INR)')
+        ax.set_ylabel('Price')
         slt.pyplot(fig)
+    if slt.checkbox("What is the average price of laptops for each operating system?"):
+        avg_prices = data.groupby('os')['price'].mean().reset_index()
+        st.write("Average prices of laptops for each operating system:")
+        fig, ax = plt.subplots()
+        sns.barplot(x='os', y='price', data=avg_prices, ax=ax)
+        ax.set_xlabel("Operating System")
+        ax.set_ylabel("Average Price")
+        ax.set_title("Average Laptop Prices by Operating System")
+        plt.xticks(rotation=45, ha='right')
+        st.pyplot(fig)
+        
         
         
         
