@@ -92,14 +92,14 @@ if uploaded_file is not None:
         slt.pyplot(fig)
     if slt.checkbox("What is the average price of laptops for each operating system?"):
         avg_prices = data.groupby('os')['price'].mean().reset_index()
-        st.write("Average prices of laptops for each operating system:")
+        slt.write("Average prices of laptops for each operating system:")
         fig, ax = plt.subplots()
         sns.barplot(x='os', y='price', data=avg_prices, ax=ax)
         ax.set_xlabel("Operating System")
         ax.set_ylabel("Average Price")
         ax.set_title("Average Laptop Prices by Operating System")
         plt.xticks(rotation=45, ha='right')
-        st.pyplot(fig)
+        slt.pyplot(fig)
         
         
         
