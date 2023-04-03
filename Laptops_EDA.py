@@ -12,7 +12,8 @@ icon = Image.open("pageicon.png")
 slt.set_page_config(page_title = "Laptops - EDA",page_icon=icon,layout="wide")
 
 #Designing SideBar
-names = ['Praneeth Vasa']
+#names = ['Praneeth Vasa']
+names = ['21A21A6162 - Vasa Purna Praneeth','21A21A6138 - M.Ankanmma rao','21A21A6135 - V.Dinesh','21A21A6141- N.Murali','21A21A6129- k.Reshi Charan','21A21A6124- K.Gopi','21A21A6130- K.Jahnavi','21A21A6161 - V.Divyanjali']
 slt.sidebar.title("Project Team Members")
 for i in names:
     slt.sidebar.write(i)
@@ -114,6 +115,18 @@ if uploaded_file is not None:
         sns.barplot(x="price", y="name", data=d1)
         plt.xticks(rotation=50, ha='right')
         slt.pyplot(fig)
+    slt.title("LAPTOP FINDER")
+    if slt.checkbox("Confused about which laptop to buy? Just feed in your requirements to our Laptop Finder and you will get best recommendations"):
+        brand = slt.selectbox("Select Preferred Brand",['Lenovo','HP','DELL','RedmiBook','SAMSUNG','MSI','realme Book','ASUS','acer','Infinix'])
+        processor = slt.selectbox("Select Preferred Processor",['i3','i4','i5','i7','i9','AMD'])
+        if processor in ['i3','i4','i5','i7','i9']:
+             gen = slt.selectbox("Select Processor Generation",['None','10th Gen','11th Gen','12th Gen'])
+        price = slt.number_input("Enter Your Budget : ",value=35000,step=5000)
+        if slt.checkbox("Click Here to get Best Matches for the Above Specifications"):
+            x1 = data[data['name'].str.contains(brand)]
+            x1 = x1[x1['processor'].str.contains(processor)]
+            x1 = x1[x1['price'] <= price]
+            slt.write(x1.sort_values(by='rating', ascending=False).head(10))
         
         
         
