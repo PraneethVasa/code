@@ -82,6 +82,14 @@ if uploaded_file is not None:
         slt.write("Top 10 High rated laptops between 30k and 40k")
         #slt.write(data1.loc[data1.rating.idxmax()])
         slt.write(data1)
+    if slt.checkbox("What is the distribution of laptop prices based on their operating system?"):
+        fig, ax = plt.subplots(figsize=(10, 6))
+        sns.boxplot(x='os', y='price', data=data, ax=ax)
+        ax.set_title('Distribution of Laptop Prices based on Operating System')
+        ax.set_xlabel('Operating System')
+        ax.set_ylabel('Price (INR)')
+        slt.pyplot(fig)
+        
         
         
         
