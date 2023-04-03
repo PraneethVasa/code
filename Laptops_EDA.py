@@ -108,8 +108,10 @@ if uploaded_file is not None:
     if slt.checkbox("Compare the Prices of i3 Processor Laptops of Brands HP and DELL"):
         #hp_i3 = data[data['name'].str.contains('HP') and data['processor'].str.contains('i3')]
         #dell_i3 = data[data['name'].str.contains('DELL') and data['processor'].str.contains('i3')]
+        fig, ax = plt.subplots()
         d = data[data['name'].str.contains('HP') | data['name'].str.contains("DELL")]
         sns.boxplot(x='name', y="price", data=d)
+        slt.pyplot(fig)
         
         
         
