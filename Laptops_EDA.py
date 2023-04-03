@@ -100,6 +100,11 @@ if uploaded_file is not None:
         ax.set_title("Average Laptop Prices by Operating System")
         plt.xticks(rotation=45, ha='right')
         slt.pyplot(fig)
+    if slt.checkbox("suggest 5 best laptops in the branding of Lenovo based on rating"):
+        lenovo_data = data[data['name'].str.contains('Lenova')]
+        top_5_laptops = lenovo_data.sort_values(by='rating', ascending=False).head(5)
+        slt.write("Top 5 Lenovo laptops based on rating:")
+        slt.write(top_5_laptops[['name', 'processor', 'rating', 'price']])
         
         
         
