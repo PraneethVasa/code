@@ -129,4 +129,5 @@ if uploaded_file is not None:
             if processor not in ['AMD Ryzen']:
                 x1  = x1[x1['processor'].str.contains(gen)]
             x1 = x1[x1['price'] <= price]
-            slt.write(x1.sort_values(by='rating', ascending=False).head(10))
+            x1 = x1.sort_values(by='rating', ascending=False)
+            slt.write(x1[['name','processor','ram','os','storage','price','rating']].head(10))
