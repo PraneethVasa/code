@@ -84,7 +84,7 @@ if uploaded_file is not None:
         slt.write(data1)
     if slt.checkbox("What is the distribution of laptop prices based on their operating system?"):
         fig, ax = plt.subplots(figsize=(10, 6))
-        sns.jointplot(x='os', y='price', data=data, ax=ax)
+        sns.lineplot(x='os', y='price', data=data, ax=ax)
         ax.set_xticklabels(ax.get_xticklabels(), rotation=90)
         ax.set_title('Distribution of Laptop Prices based on Operating System')
         ax.set_xlabel('Operating System')
