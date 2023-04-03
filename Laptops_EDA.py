@@ -117,12 +117,14 @@ if uploaded_file is not None:
     slt.title("LAPTOP FINDER")
     if slt.checkbox("Confused about which laptop to buy? Just feed in your requirements to our Laptop Finder and you will get best recommendations"):
         brand = slt.selectbox("Select Preferred Brand",['Lenovo','HP','DELL','RedmiBook','SAMSUNG','MSI','realme Book','ASUS','acer','Infinix'])
-        processor = slt.selectbox("Select Preferred Processor",['i3','i4','i5','i7','i9','AMD'])
-        if processor in ['i3','i4','i5','i7','i9']:
-             gen = slt.selectbox("Select Processor Generation",['10th Gen','11th Gen','12th Gen'])
+        processor = slt.selectbox("Select Preferred Processor",['Intel Core i3','Intel Core i5','Intel Core i7','Intel Core i9','AMD Ryzen'])
+        if processor not in ['AMD Ryzen']:
+             gen = slt.selectbox("Select Processor Generation",['10th Gen','11th Gen','12th Gen','13th Gen'])
         price = slt.number_input("Enter Your Budget : ",value=62000,step=5000)
         if slt.checkbox("Click Here to get Best Matches for the Above Specifications"):
             x1 = data[data['name'].str.contains(brand)]
             x1 = x1[x1['processor'].str.contains(processor)]
+            if processor not in ['AMD Ryzen']:
+                x1  = x1[x1['processor'].str.contains(gen)]
             x1 = x1[x1['price'] <= price]
             slt.write(x1.sort_values(by='rating', ascending=False).head(10))
