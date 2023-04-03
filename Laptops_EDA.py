@@ -106,16 +106,14 @@ if uploaded_file is not None:
         slt.write("Top 5 Lenovo laptops based on rating:")
         slt.write(top_5_laptops[['name', 'processor', 'rating', 'price']])
     if slt.checkbox("Compare the Prices of i3 Processor Laptops of Brands HP and DELL"):
-        #hp_i3 = data[data['name'].str.contains('HP') and data['processor'].str.contains('i3')]
-        #dell_i3 = data[data['name'].str.contains('DELL') and data['processor'].str.contains('i3')]
         fig, ax = plt.subplots()
         d = data[data['name'].str.contains('HP') | data['name'].str.contains("DELL")]
         d1 = d[d['processor'].str.contains('i3')]
         sns.barplot(x="price", y="name", data=d1)
-        plt.xticks(rotation=50, ha='right')
+        plt.xticks(rotation=50)
         slt.pyplot(fig)
     slt.title("LAPTOP FINDER")
-    if slt.checkbox("Confused about which laptop to buy? Just feed in your requirements to our Laptop Finder and you will get best recommendations"):
+    if slt.checkbox("Confused about which laptop to buy? Just feed in your requirements to our Laptop Finder and you will get best recommendations according to your specifications"):
         brand = slt.selectbox("Select Preferred Brand",['Lenovo','HP','DELL','RedmiBook','SAMSUNG','MSI','realme Book','ASUS','acer','Infinix'])
         processor = slt.selectbox("Select Preferred Processor",['Intel Core i3','Intel Core i5','Intel Core i7','Intel Core i9','AMD Ryzen'])
         if processor not in ['AMD Ryzen']:
