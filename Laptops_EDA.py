@@ -127,33 +127,3 @@ if uploaded_file is not None:
             x1 = x1[x1['processor'].str.contains(processor)]
             x1 = x1[x1['price'] <= price]
             slt.write(x1.sort_values(by='rating', ascending=False).head(10))
-        
-        
-        
-        
-        
-        
-    
-
-
-
-
-
-
-    
-
-
-
-    
-
-    
-    
-    
-    
-
-
-
-
-
-    
-
