@@ -130,4 +130,4 @@ if uploaded_file is not None:
                 x1  = x1[x1['processor'].str.contains(gen)]
             x1 = x1[x1['price'] <= price]
             x1 = x1.sort_values(by='rating', ascending=False)
-            slt.write(x1[['name','processor','ram','os','storage','price','rating']].head(10))
+            slt.write(x1[['name','os','ram','storage','price','rating']])
