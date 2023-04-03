@@ -120,10 +120,12 @@ if uploaded_file is not None:
         processor = slt.selectbox("Select Preferred Processor",['Intel Core i3','Intel Core i5','Intel Core i7','Intel Core i9','AMD Ryzen'])
         if processor not in ['AMD Ryzen']:
              gen = slt.selectbox("Select Processor Generation",['10th Gen','11th Gen','12th Gen','13th Gen'])
+        storage = slr.selectbox("Select Storage Type",['SSD','HDD'])
         price = slt.number_input("Enter Your Budget : ",value=62000,step=5000)
         if slt.checkbox("Click Here to get Best Matches for the Above Specifications"):
             x1 = data[data['name'].str.contains(brand)]
             x1 = x1[x1['processor'].str.contains(processor)]
+            x1 = x1[x1['storage'].str.contains(storage)]
             if processor not in ['AMD Ryzen']:
                 x1  = x1[x1['processor'].str.contains(gen)]
             x1 = x1[x1['price'] <= price]
