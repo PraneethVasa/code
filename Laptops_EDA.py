@@ -111,7 +111,7 @@ if uploaded_file is not None:
         fig, ax = plt.subplots()
         d = data[data['name'].str.contains('HP') | data['name'].str.contains("DELL")]
         d1 = d['processor'].str.contains('i3')
-        sns.barplot(x='name', y="price", data=d1)
+        sns.barplot(x="price", y="name", data=d1)
         plt.xticks(rotation=50, ha='right')
         slt.pyplot(fig)
         
