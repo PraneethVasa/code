@@ -4,7 +4,6 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-import random
 from PIL import Image
 
 #Setting Page Configuration
@@ -120,8 +119,8 @@ if uploaded_file is not None:
         brand = slt.selectbox("Select Preferred Brand",['Lenovo','HP','DELL','RedmiBook','SAMSUNG','MSI','realme Book','ASUS','acer','Infinix'])
         processor = slt.selectbox("Select Preferred Processor",['i3','i4','i5','i7','i9','AMD'])
         if processor in ['i3','i4','i5','i7','i9']:
-             gen = slt.selectbox("Select Processor Generation",['None','10th Gen','11th Gen','12th Gen'])
-        price = slt.number_input("Enter Your Budget : ",value=35000,step=5000)
+             gen = slt.selectbox("Select Processor Generation",['10th Gen','11th Gen','12th Gen'])
+        price = slt.number_input("Enter Your Budget : ",value=62000,step=5000)
         if slt.checkbox("Click Here to get Best Matches for the Above Specifications"):
             x1 = data[data['name'].str.contains(brand)]
             x1 = x1[x1['processor'].str.contains(processor)]
