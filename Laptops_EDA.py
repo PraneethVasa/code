@@ -16,8 +16,8 @@ names = ['Praneeth Vasa']
 slt.sidebar.title("Project Team Members")
 for i in names:
     slt.sidebar.write(i)
-#slt.sidebar.title("Under the Guidence of - ")
-#slt.sidebar.write(" Dr. B Rama Krishna")
+slt.sidebar.title("Under the Guidence of - ")
+slt.sidebar.write(" Dr. B Rama Krishna")
 
 #Designing Main Page
 icon1 = Image.open("logo.png")
