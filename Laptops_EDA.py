@@ -110,7 +110,7 @@ if uploaded_file is not None:
         d = data[data['name'].str.contains('HP') | data['name'].str.contains("DELL")]
         d1 = d[d['processor'].str.contains('i3')]
         sns.barplot(x="price", y="name", data=d1)
-        plt.xticks(rotation=50)
+        plt.xticks(rotation=50,ha='right')
         slt.pyplot(fig)
     slt.title("LAPTOP FINDER")
     if slt.checkbox("Confused about which laptop to buy? Just feed in your requirements to our Laptop Finder and you will get best recommendations according to your specifications"):
