@@ -115,20 +115,16 @@ if uploaded_file is not None:
     slt.title("LAPTOP FINDER")
     if slt.checkbox("Confused about which laptop to buy? Just feed in your requirements to our Laptop Finder and you will get best recommendations according to your specifications"):
         brand = slt.selectbox("Select Preferred Brand",['Lenovo','HP','DELL','RedmiBook','SAMSUNG','MSI','realme Book','ASUS','acer','Infinix'])
-        processor = slt.selectbox("Select Preferred Processor",['Intel Core i3','Intel Core i5','Intel Core i7','Intel Core i9','Apple M1','Apple M2','AMD Ryzen'])
-        ram = slt.selectbox("Select Preferred RAM",['4 GB','8 Gb','16 GB','32 GB'])
-        os = slt.selectbox("Select Preferred Operating System",['Windows 11','Windows 10',"Mac OS","DOS","Chrome"])
+        processor = slt.selectbox("Select Preferred Processor",['Intel Core i3','Intel Core i5','Intel Core i7','Intel Core i9','AMD Ryzen'])
         if processor not in ['AMD Ryzen']:
              gen = slt.selectbox("Select Processor Generation",['10th Gen','11th Gen','12th Gen','13th Gen'])
-        #storage = slt.selectbox("Select Storage Type",['256 GB SSD','512 GB SSD','1 TB SSD','256 GB HDD','512 GB HDD','1 TB HDD'])
+        storage = slt.selectbox("Select Storage Type",['SSD','HDD'])
         price = slt.number_input("Enter Your Budget : ",value=62000,step=5000)
         if slt.checkbox("Click Here to get Best Matches for the Above Specifications"):
             x1 = data[data['name'].str.contains(brand)]
             x1 = x1[x1['processor'].str.contains(processor)]
-            #x1 = x1[x1['storage'].str.contains(storage)]
-            x1 = x1[x1['ram'].str.contains(ram)]
-            x1 = x1[x1['os'].str.contains(os)]
-            if processor not in ['AMD Ryzen','Apple M1','Apple M2']:
+            x1 = x1[x1['storage'].str.contains(storage)]
+            if processor not in ['AMD Ryzen']:
                 x1  = x1[x1['processor'].str.contains(gen)]
             x1 = x1[x1['price'] <= price]
             x1 = x1.sort_values(by='rating', ascending=False)
