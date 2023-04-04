@@ -5,11 +5,11 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 from PIL import Image
-from maintenance import maintenance_mode
 
-mt = False
+mt = True
 if mt:
-    maintenance_mode()
+    slt.title("😶‍🌫️")
+    slt.write("Sorry, the app is currently under maintenance. Please try again Later🥲")
 else:
     #Setting Page Configuration
     icon = Image.open("pageicon.png")
