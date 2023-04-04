@@ -9,7 +9,7 @@ from PIL import Image
 mt = True
 if mt:
     slt.title("😶‍🌫️")
-    slt.write("Sorry, the app is currently under maintenance. Please try again Later🥲")
+    slt.write("Sorry, the app (Laptops_EDA) is currently under maintenance. Please try again Later🥲")
 else:
     #Setting Page Configuration
     icon = Image.open("pageicon.png")
