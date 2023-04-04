@@ -120,12 +120,12 @@ if uploaded_file is not None:
         os = slt.selectbox("Select Preferred Operating System",['Windows 11','Windows 10',"Mac OS","DOS","Chrome"])
         if processor not in ['AMD Ryzen']:
              gen = slt.selectbox("Select Processor Generation",['10th Gen','11th Gen','12th Gen','13th Gen'])
-        storage = slt.selectbox("Select Storage Type",['256 GB SSD','512 GB SSD','1 TB SSD','256 GB HDD','512 GB HDD','1 TB HDD'])
+        #storage = slt.selectbox("Select Storage Type",['256 GB SSD','512 GB SSD','1 TB SSD','256 GB HDD','512 GB HDD','1 TB HDD'])
         price = slt.number_input("Enter Your Budget : ",value=62000,step=5000)
         if slt.checkbox("Click Here to get Best Matches for the Above Specifications"):
             x1 = data[data['name'].str.contains(brand)]
             x1 = x1[x1['processor'].str.contains(processor)]
-            x1 = x1[x1['storage'].str.contains(storage)]
+            #x1 = x1[x1['storage'].str.contains(storage)]
             x1 = x1[x1['ram'].str.contains(ram)]
             x1 = x1[x1['os'].str.contains(os)]
             if processor not in ['AMD Ryzen','Apple M1','Apple M2']:
