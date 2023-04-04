@@ -119,18 +119,26 @@ else:
             slt.pyplot(fig)
         slt.title("LAPTOP FINDER")
         if slt.checkbox("Confused about which laptop to buy? Just feed in your requirements to our Laptop Finder and you will get best recommendations according to your specifications"):
-            brand = slt.selectbox("Select Preferred Brand",['Lenovo','HP','DELL','RedmiBook','SAMSUNG','MSI','realme Book','ASUS','acer','Infinix'])
-            processor = slt.selectbox("Select Preferred Processor",['Intel Core i3','Intel Core i5','Intel Core i7','Intel Core i9','AMD Ryzen'])
-            if processor not in ['AMD Ryzen']:
-                 gen = slt.selectbox("Select Processor Generation",['10th Gen','11th Gen','12th Gen','13th Gen'])
-            storage = slt.selectbox("Select Storage Type",['SSD','HDD'])
-            price = slt.number_input("Enter Your Budget : ",value=62000,step=5000)
-            if slt.checkbox("Click Here to get Best Matches for the Above Specifications"):
-                x1 = data[data['name'].str.contains(brand)]
-                x1 = x1[x1['processor'].str.contains(processor)]
-                x1 = x1[x1['storage'].str.contains(storage)]
-                if processor not in ['AMD Ryzen']:
-                    x1  = x1[x1['processor'].str.contains(gen)]
-                x1 = x1[x1['price'] <= price]
-                x1 = x1.sort_values(by='rating', ascending=False)
-                slt.write(x1[['name','os','ram','storage','price','rating']])
+             brand = slt.selectbox("Select Preferred Brand",['Lenovo','HP','DELL','APPLE','RedmiBook','SAMSUNG','MSI','realme Book','ASUS','acer','Infinix'])
+             x1 = data[data['name'].str.contains(brand)]
+             p = x1.processor.unique()
+             processor = slt.selectbox("Select Preferred Processor",p)
+             x1 = x1[x1['processor'] == processor]
+             r = x1.ram.unique()
+             ram = slt.selectbox("Select Preferred RAM",r)
+             x1 = x1[x1['ram'] == ram]
+             s = x1.storage.unique()
+             storage = slt.selectbox("Select Preferred Storage",s)
+             x1 = x1[x1['storage'] == storage]
+             d = x1.display_size.unique()
+             display = slt.selectbox("select Preferred Display Size",d)
+             x1 = x1[x1['display_size'] == display]
+             price = slt.number_input("Enter Your Budget : ",value=45000,step=5000)
+             x1 = x1[x1['price'] <= price]
+             x1 = x1.sort_values(by='rating', ascending=False)
+             x1 = x1[['name','os','ram','storage','display_size','price','rating']]
+             if len(x1) == 0:
+                    slt.write(f"The {brand} Laptops having {processor} are bit Much Expensive.  -- TRY TO INCREASE YOUR BUDGET(₹ price) for the Above Requirments")
+             else:
+                slt.write("Here are the Best Matches for the Above Specifications")
+                slt.write(x1)
