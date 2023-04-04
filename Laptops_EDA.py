@@ -116,14 +116,17 @@ if uploaded_file is not None:
     if slt.checkbox("Confused about which laptop to buy? Just feed in your requirements to our Laptop Finder and you will get best recommendations according to your specifications"):
         brand = slt.selectbox("Select Preferred Brand",['Lenovo','HP','DELL','RedmiBook','SAMSUNG','MSI','realme Book','ASUS','acer','Infinix'])
         processor = slt.selectbox("Select Preferred Processor",['Intel Core i3','Intel Core i5','Intel Core i7','Intel Core i9','AMD Ryzen'])
+        ram = slt.selectbox("Select Preferred RAM",['4 GB','8 Gb','16 GB','32 GB'])
+        os = slt.selectbox("Select Preferred Operating System",['Windows 11','Windows 10,"Mac OS","DOS","Chrome"])
         if processor not in ['AMD Ryzen']:
              gen = slt.selectbox("Select Processor Generation",['10th Gen','11th Gen','12th Gen','13th Gen'])
-        storage = slt.selectbox("Select Storage Type",['SSD','HDD'])
+        storage = slt.selectbox("Select Storage Type",['256 GB SSD','512 GB SSD'])
         price = slt.number_input("Enter Your Budget : ",value=62000,step=5000)
         if slt.checkbox("Click Here to get Best Matches for the Above Specifications"):
             x1 = data[data['name'].str.contains(brand)]
             x1 = x1[x1['processor'].str.contains(processor)]
             x1 = x1[x1['storage'].str.contains(storage)]
+            x1 = x1[x1['ram'].str.contains(ram)]             
             if processor not in ['AMD Ryzen']:
                 x1  = x1[x1['processor'].str.contains(gen)]
             x1 = x1[x1['price'] <= price]
