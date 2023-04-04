@@ -11,8 +11,7 @@ mt = True
 if mt:
     l = Image.open("mn.png")
     slt.image(l,use_column_width = True)
-    slt.title("😶‍🌫️")
-    slt.title("Sorry, the app (Laptops_EDA) is currently under maintenance. Please try again Later🥲")
+    slt.title("Sorry, the app (Laptops_EDA) is currently under maintenance. Please try again Later😶‍🌫️")
 else:
     #Setting Page Configuration
     icon = Image.open("pageicon.png")
