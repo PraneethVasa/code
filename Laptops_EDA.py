@@ -7,7 +7,7 @@ import seaborn as sns
 from PIL import Image
 from maintenance import maintenance_mode
 
-mt = True
+mt = False
 if mt:
     maintenance_mode()
 else:
