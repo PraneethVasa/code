@@ -6,8 +6,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from PIL import Image
 
-mt = True
-#mt = False
+#mt = True
+mt = False
 if mt:
     l = Image.open("mn.png")
     slt.image(l,use_column_width = True)
