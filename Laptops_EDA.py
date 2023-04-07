@@ -9,6 +9,7 @@ from PIL import Image
 mt = True
 #mt = False
 if mt:
+    slt.caption("PraneethVasa")
     l = Image.open("mn.png")
     slt.image(l,use_column_width = True)
     slt.title("Sorry, the app (Laptops_EDA) is currently under maintenance. Please try again Later😶‍🌫️")
