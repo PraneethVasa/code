@@ -143,7 +143,7 @@ else:
              button_style = """
                 <style>
                     .stButton>button {
-                    background-color: #155d27;
+                    background-color: #25a244;
                     color: white;
                         }
                         </style>
