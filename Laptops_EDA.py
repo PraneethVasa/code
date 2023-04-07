@@ -150,7 +150,7 @@ else:
                         """
 
                 # Render the button with custom CSS styling
-             st.markdown(button_style, unsafe_allow_html=True)
+             slt.markdown(button_style, unsafe_allow_html=True)
              if slt.button("Find Laptops",key='1'):
                 if len(x1) == 0:
                     slt.write(f"The {brand} Laptops having {processor} are bit Much Expensive.  -- TRY TO INCREASE YOUR BUDGET(₹ price) for the Above Requirments")
