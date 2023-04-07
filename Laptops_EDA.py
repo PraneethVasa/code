@@ -140,6 +140,17 @@ else:
              x1 = x1[x1['price'] <= price]
              x1 = x1.sort_values(by='rating', ascending=False)
              x1 = x1[['name','os','ram','storage','display_size','price','rating']]
+             button_style = """
+                <style>
+                    .stButton>button {
+                    background-color: #FF5733;
+                    color: white;
+                        }
+                        </style>
+                        """
+
+                # Render the button with custom CSS styling
+             st.markdown(button_style, unsafe_allow_html=True)
              if slt.button("Find Laptops",key='1'):
                 if len(x1) == 0:
                     slt.write(f"The {brand} Laptops having {processor} are bit Much Expensive.  -- TRY TO INCREASE YOUR BUDGET(₹ price) for the Above Requirments")
