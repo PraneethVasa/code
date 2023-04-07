@@ -144,7 +144,7 @@ else:
                 <style>
                     .stButton>button {
                     background-color: #bc4749;
-                    color: black;
+                    color: white;
                         }
                         </style>
                         """
