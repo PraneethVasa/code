@@ -6,6 +6,10 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from PIL import Image
 
+#Setting Page Configuration
+icon = Image.open("pageicon.png")
+slt.set_page_config(page_title = "Laptops - EDA",page_icon=icon,layout="wide")
+
 mt = True
 #mt = False
 if mt:
@@ -14,10 +18,6 @@ if mt:
     slt.image(l,use_column_width = True)
     slt.title("Sorry, the app (Laptops_EDA) is currently under maintenance. Please try again Later😶‍🌫️")
 else:
-    #Setting Page Configuration
-    icon = Image.open("pageicon.png")
-    slt.set_page_config(page_title = "Laptops - EDA",page_icon=icon,layout="wide")
-
     #Designing SideBar
     #names = ['Praneeth Vasa']
     names = ['21A21A6162 - Vasa Purna Praneeth','21A21A6138 - m. ankanmma rao','21A21A6135 - V.Dinesh','21A21A6141- N.Murali','21A21A6129- k.Reshi Charan','21A21A6124- K.Gopi','21A21A6130- K.Jahnavi','21A21A6161 - V.Divyanjali']
