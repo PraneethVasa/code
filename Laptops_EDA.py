@@ -11,7 +11,7 @@ icon = Image.open("pageicon.png")
 slt.set_page_config(page_title = "Laptops - EDA",page_icon=icon,layout="wide")
 
 mt = True
-#mt = False
+mt = False
 if mt:
     slt.caption("PraneethVasa")
     l = Image.open("mn.png")
