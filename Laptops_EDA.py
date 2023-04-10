@@ -8,11 +8,10 @@ from PIL import Image
 
 #Setting Page Configuration
 slt.set_page_config(page_title = "Laptops - EDA",page_icon="icon.png",layout="wide")
-
+slt.caption("PraneethVasa")
 mt = True
 mt = False
 if mt:
-    slt.caption("PraneethVasa")
     l = Image.open("mn.png")
     slt.image(l,use_column_width = True)
     slt.title("Sorry, the app (Laptops_EDA) is currently under maintenance. Please try again Later😶‍🌫️")
