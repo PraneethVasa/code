@@ -7,7 +7,7 @@ import seaborn as sns
 from PIL import Image
 
 #Setting Page Configuration
-slt.set_page_config(page_title = "Laptops - EDA",page_icon="icon.png",layout="wide")
+slt.set_page_config(page_title = "Laptops - EDA",page_icon="lap.png",layout="wide")
 
 mt = True
 mt = False
