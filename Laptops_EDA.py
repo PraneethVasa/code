@@ -7,8 +7,7 @@ import seaborn as sns
 from PIL import Image
 
 #Setting Page Configuration
-icon = Image.open("pageicon.png")
-slt.set_page_config(page_title = "Laptops - EDA",page_icon=icon,layout="wide")
+slt.set_page_config(page_title = "Laptops - EDA",page_icon="icon.png",layout="wide")
 
 mt = True
 mt = False
@@ -28,8 +27,7 @@ else:
     slt.sidebar.write(" Dr. B Rama Krishna")
 
     #Designing Main Page
-    icon1 = Image.open("logo.png")
-    slt.image(icon1,use_column_width = True)
+    slt.image("logo.png",use_column_width = True)
     slt.title("Exploratory Data Analysis On Laptops DataSet")
     uploaded_file = slt.file_uploader("Upload a Laptops Dataset (.csv)")
     if uploaded_file is not None:
@@ -140,20 +138,9 @@ else:
              x1 = x1[x1['price'] <= price]
              x1 = x1.sort_values(by='rating', ascending=False)
              x1 = x1[['name','os','ram','storage','display_size','price','rating']]
-             button_style = """
-                <style>
-                    .stButton>button {
-                    background-color: #25a244;
-                    color: white;
-                        }
-                        </style>
-                        """
-
-                # Render the button with custom CSS styling
-             slt.markdown(button_style, unsafe_allow_html=True)
              if slt.button("Find Laptops",key='1'):
                 if len(x1) == 0:
-                    slt.write(f"The {brand} Laptops having {processor} are bit Much Expensive.  -- TRY TO INCREASE YOUR BUDGET(₹ price) for the Above Requirments")
+                    slt.warning(f"The {brand} Laptops having {processor} are bit Much Expensive.  -- TRY TO INCREASE YOUR BUDGET(₹ price) for the Above Requirments")
                 else:
                     slt.write("Here are the Best Matches for the Above Specifications")
                     slt.write(x1)
