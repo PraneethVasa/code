@@ -93,7 +93,7 @@ else:
         slt.title("VISUALIZATION")
         #Q15
         if slt.checkbox("Plot the Correlation between Price and Rating of Laptops"):
-            fig,x = plt.subplots()
+            fig,x = plt.subplots(figsize=(10, 5))
             plt.scatter(data['price'], data['rating'])
             plt.title('Correlation between Price and Rating')
             plt.xlabel('Price')
@@ -101,7 +101,7 @@ else:
             slt.pyplot(fig)
         #Q16
         if slt.checkbox("Show the Distribution of Laptop Prices"):
-            fig,x = plt.subplots()
+            fig,x = plt.subplots(figsize=(10, 5))
             plt.hist(data['price'])
             plt.title('Distribution of Laptop Ratings')
             plt.xlabel('Rating')
@@ -109,7 +109,7 @@ else:
             slt.pyplot(fig)
         #Q17
         if slt.checkbox("What is the distribution of laptop prices based on their operating system?"):
-            fig, ax = plt.subplots(figsize=(10, 6))
+            fig, ax = plt.subplots(figsize=(10, 5))
             sns.barplot(x='os', y='price', data=data, ax=ax)
             ax.set_xticklabels(ax.get_xticklabels(), rotation=90)
             ax.set_title('Distribution of Laptop Prices based on Operating System')
@@ -120,7 +120,7 @@ else:
         if slt.checkbox("What is the average price of laptops for each operating system?"):
             avg_prices = data.groupby('os')['price'].mean().reset_index()
             slt.write("Average prices of laptops for each operating system:")
-            fig, ax = plt.subplots()
+            fig, ax = plt.subplots(figsize=(10, 5))
             sns.barplot(x='os', y='price', data=avg_prices, ax=ax)
             ax.set_xlabel("Operating System")
             ax.set_ylabel("Average Price")
@@ -130,7 +130,7 @@ else:
     
         #Q19
         if slt.checkbox("Compare the Prices of i3 Processor Laptops of Brands HP and DELL"):
-            fig, ax = plt.subplots()
+            fig, ax = plt.subplots(figsize=(10, 5))
             d = data[data['name'].str.contains('HP') | data['name'].str.contains("DELL")]
             d1 = d[d['processor'].str.contains('i3')]
             sns.barplot(x="price", y="name", data=d1)
@@ -144,7 +144,7 @@ else:
             if ty != 'Distribution':
                 y_l = slt.selectbox("On Y - AXIS ",list(data1.columns))
             if slt.button("Plot Graph",key='fd'):
-                fig,ax = plt.subplots()
+                fig,ax = plt.subplots(figsize=(10, 5))
                 if ty == 'Distribution':
                     plt.title(f"The {ty} of {x_l}")
                     sns.histplot(x = x_l,data = data1,kde = True,ax=ax)
