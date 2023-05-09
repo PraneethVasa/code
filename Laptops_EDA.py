@@ -32,7 +32,7 @@ else:
     if uploaded_file is not None:
         data = pd.read_csv(uploaded_file)
         slt.write("Preview : ")
-        slt.dataframe(data)
+        slt.dataframe(data.head(20))
         slt.title("Laptops Specifications DataSet")
         #Displaying Queries In Checkbox
         #Q1
