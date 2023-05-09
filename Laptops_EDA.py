@@ -8,7 +8,7 @@ from PIL import Image
 
 #Setting Page Configuration
 slt.set_page_config(page_title = "Laptops - EDA",page_icon="icon.png",layout="wide")
-slt.caption("PraneethVasa")
+
 mt = True
 mt = False
 if mt:
