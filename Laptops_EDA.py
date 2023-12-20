@@ -18,7 +18,7 @@ if mt:
 else:
     #Designing SideBar
     #names = ['Praneeth Vasa']
-    names = ['21A21A6162 - Vasa Purna Praneeth','21A21A6138 - m. ankanmma rao','21A21A6135 - V.Dinesh','21A21A6141- N.Murali','21A21A6129- k.Reshi Charan','21A21A6124- K.Gopi','21A21A6130- K.Jahnavi','21A21A6161 - V.Divyanjali']
+    names = ['Vasa Purna Praneeth','M.ankanmma rao','V.Dinesh','N.Murali','k.Reshi Charan','K.Gopi','K.Jahnavi','V.Divyanjali']
     slt.sidebar.title("Project Team Members")
     for i in names:
         slt.sidebar.write(i)
