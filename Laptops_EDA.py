@@ -10,7 +10,7 @@ from PIL import Image
 slt.set_page_config(page_title = "Laptops - EDA",page_icon="icon.png",layout="wide")
 
 mt = True
-mt = False
+#mt = False
 if mt:
     l = Image.open("mn.png")
     slt.image(l,use_column_width = True)
